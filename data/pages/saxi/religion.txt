@@ -1,0 +1,23 @@
+====== Saxi Religion ======
+The [[:Saxi]] mostly all revere the same pantheon of gods, though different houses and regions focus on different gods, some going so far as to forsake particular gods entirely.
+
+===== Reality =====
+It should be noted that none of the //gods// whorshipped by the Saxi are actually any such thing. In many cases these gods are mere concepts and ideals in the minds of those who whorship them, but some are inspired by the activities of very real entities - usually [[:outsider|outsiders]] or [[:fey]] - and other have sparked the interest of such entities after the fact. These entities may be localised and resident the particular shrines, or further-reaching; they may be benevolant, malicious, capricous, or simply relate to the ideals embodied by a god; they may even take an interest in passing, and act in a way which happens to reinforce the people's beliefs. Therefore appeals to the Saxi gods are not always in vain, but are sometimes perilous.
+
+An example of this can be seen in [[:Eosera]], an outsider appearing as a prominent figure in Saxi religion and mythology, who has on ocassion manifested physically to communicate with mortal men.
+
+===== Pantheon =====
+==== Major Gods ====
+[[saxi:religion:gala|Gala]] \\
+[[saxi:religion:jiaran|Jiaran]] \\
+[[:eosera|Eosera]] \\
+[[saxi:religion:ljacraft|Ljacraft]] \\
+[[saxi:religion:schuiten|Schuiten]]
+
+==== Minor Gods ====
+[[saxi:religion:fjorsh|Fjorsh]] \\
+[[saxi:religion:lofrik|Lofrik]] \\
+[[saxi:religion:estid|Estid]] \\
+[[saxi:religion:uulfkaa|Uulfkaa]] \\
+[[saxi:religion:biora|Biora]]
+

@@ -1,0 +1,11 @@
+====== Spire ======
+A spire is a body of terrain extending to an abnormal altitude from the mountainous plane of [[creation:marlien|Marlien]]. Strictly the term is applied only to those which hold at least one [[moon]] or [[star]] in their orbit (even if that orbit is shared with other spires), but significant extentions of the Marlien's terrain which lack any satelites have also been described as spires for lack of a better term. Otherwise, there is no defined height or gravitational factor which identifies between a mountain of the plane, or a spire.
+
+===== Common Features =====
+==== Water Cycle ====
+On spires warmed by a nearby [[sun]] it is common for water to melt from the frozen mountains about the curving base, flowing gradually down the spire, eventually evaporating or reaching the tip, where it flows off in a stream. Water flowing away from the tip eventually evaporates, and evaporated water from the tip or otherwise flows northward on solar winds, towards the plane. The water vapour then condenses and falls back to the spire, or to the plane.
+
+=== Structure ===
+Typically the base of a spire is curved, gradually leveling out with the surrounding terrain of the plane (allowing for the mountains, of course). Gravity adjusts gradually, following this curve until it eventually pulls towards the plane itself.
+
+The tip and core of most spires consists of an incredibly dense, tough material, neither metal nor stone, encasing a molten core with veins connecting to the [[creation:Marlien]] itself. The density of matter increases gradually on the approach to the tip, as the depth of the inner shell decreases, and the tip of most spires is impervious to damage from any man-made tools.
