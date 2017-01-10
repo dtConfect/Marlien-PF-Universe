@@ -51,3 +51,13 @@
 1484036178	2.30.156.111	E	volcano	dtconfect			7
 1484036227	2.30.156.111	E	volcano	dtconfect			7
 1484074553	2.30.156.111	C	wiki:site_notice	dtconfect	created		27
+1484075750	127.0.0.1	E	creation:true_creation		external edit		0
+1484077115	::1	D	creation:true_creation	dtconfect	removed		-302
+1484075750	127.0.0.1	E	creation:true_creation:primordial_entities		external edit		0
+1484077199	::1	E	creation:true_creation:primordial_entities	dtconfect			-94
+1484077244	::1	E	creation:true_creation:primordial_entities	dtconfect			9
+1484077303	::1	E	creation:true_creation:primordial_entities	dtconfect			-1
+1484075750	127.0.0.1	E	creation:true_creation:primordial_elements		external edit		0
+1484077442	::1	E	creation:true_creation:primordial_elements	dtconfect			-42
+1484077452	::1	R	creation:true_creation:primordial_elements	dtconfect	old revision restored (2017/01/10 20:15)	1484075750	1
+1484077621	::1	E	creation:true_creation:primordial_elements	dtconfect	[Atman] 		185
