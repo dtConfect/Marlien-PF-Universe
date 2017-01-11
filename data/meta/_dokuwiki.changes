@@ -1,10 +1,3 @@
-1480108312	2.30.156.111	C	eosera	dtconfect	created		102
-1480108999	2.30.156.111	E	eosera	dtconfect			3768
-1480109042	2.30.156.111	E	eosera	dtconfect			6
-1480110541	2.30.156.111	C	saxi:religion	dtconfect	created		1564
-1480110571	2.30.156.111	E	saxi:religion	dtconfect			9
-1480111042	2.30.156.111	E	eosera	dtconfect			12
-1480111101	2.30.156.111	E	eosera	dtconfect			22
 1484004960	2.30.156.111	C	arthale	dtconfect	created		296
 1484005087	2.30.156.111	E	arthale	dtconfect	correction western->eastern		0
 1484005246	2.30.156.111	E	arthale	dtconfect			166
@@ -52,12 +45,14 @@
 1484036227	2.30.156.111	E	volcano	dtconfect			7
 1484074553	2.30.156.111	C	wiki:site_notice	dtconfect	created		27
 1484075750	127.0.0.1	E	creation:true_creation		external edit		0
-1484077115	::1	D	creation:true_creation	dtconfect	removed		-302
 1484075750	127.0.0.1	E	creation:true_creation:primordial_entities		external edit		0
+1484075750	127.0.0.1	E	creation:true_creation:primordial_elements		external edit		0
+1484077115	::1	D	creation:true_creation	dtconfect	removed		-302
 1484077199	::1	E	creation:true_creation:primordial_entities	dtconfect			-94
 1484077244	::1	E	creation:true_creation:primordial_entities	dtconfect			9
 1484077303	::1	E	creation:true_creation:primordial_entities	dtconfect			-1
-1484075750	127.0.0.1	E	creation:true_creation:primordial_elements		external edit		0
 1484077442	::1	E	creation:true_creation:primordial_elements	dtconfect			-42
 1484077452	::1	R	creation:true_creation:primordial_elements	dtconfect	old revision restored (2017/01/10 20:15)	1484075750	1
 1484077621	::1	E	creation:true_creation:primordial_elements	dtconfect	[Atman] 		185
+1484133842	46.16.213.65	E	creation:creation	dtconfect			347
+1484134539	46.16.213.65	E	creation:creation	dtconfect			-73
