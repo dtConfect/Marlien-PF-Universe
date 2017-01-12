@@ -73,3 +73,18 @@
 1484182545	2.30.156.111	E	creation:marlien	dtconfect			-831
 1484182558	2.30.156.111	C	creation:true_creation:charon	dtconfect	created		1690
 1484182846	2.30.156.111	E	creation:true_creation:charon	dtconfect			494
+1484183256	2.30.156.111	C	planes:everstair	dtconfect	created		3031
+1484183487	2.30.156.111	C	creation:marlien:dead_gods	dtconfect	created		131
+1484183520	2.30.156.111	E	creation:marlien	dtconfect	[Marlien] 		-186
+1484183632	2.30.156.111	E	planes:material_plane	dtconfect			312
+1484183673	2.30.156.111	C	talk:planes:material_plane	dtconfect	created		94
+1484183772	2.30.156.111	E	creation:true_creation:charon	dtconfect	[Charon] 		1
+1484183802	2.30.156.111	D	planes:the_halls_of_the_charon	dtconfect	removed		-327
+1484183829	2.30.156.111	E	creation:true_creation:charon	dtconfect	[Charon] 		0
+1484183840	2.30.156.111	C	planes:halls_of_the_charon	dtconfect	created		324
+1484183863	2.30.156.111	E	planes:halls_of_the_charon	dtconfect	[The Halls of the Charon] 		-4
+1484183905	2.30.156.111	E	planes:planes	dtconfect	[List of Planes of Marlien] 		-16
+1484183921	2.30.156.111	E	planes:halls_of_the_charon	dtconfect	[Halls of the Charon] 		4
+1484183937	2.30.156.111	E	planes:material_plane	dtconfect	[Material Plane] 		4
+1484183981	2.30.156.111	C	planes:everdark	dtconfect	created		113
+1484184049	2.30.156.111	E	planes:solitude	dtconfect			223

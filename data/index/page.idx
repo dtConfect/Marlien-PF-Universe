@@ -26,3 +26,8 @@ planes:the_halls_of_the_charon
 creation:true_creation:beyond
 planes:material_plane
 creation:true_creation:charon
+planes:everstair
+creation:marlien:dead_gods
+talk:planes:material_plane
+planes:halls_of_the_charon
+planes:everdark

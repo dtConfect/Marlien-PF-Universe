@@ -1,2 +1,4 @@
 ====== Solitude ======
-Solitude is a [[planes#primordial|primordial plane]] composed almost entirely of inert [[creation:true_creation:primordial_elements#Anicca]].
+Solitude is a [[planes:planes|plane]] of the [[creation:creation]] [[creation:Marlien]] composed almost entirely of unbound [[creation:true_creation:primordial_elements#anicca]] and [[creation:true_creation:primordial_elements#mana]].
+
+All other [[planes:planes]] sit within Solitude. Due to its abstract, monotone nature it is able to appear effectively infinite.
