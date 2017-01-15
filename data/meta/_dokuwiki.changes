@@ -97,3 +97,8 @@
 1484172737	127.0.0.1	E	creation:true_creation:primordial_elements		external edit		0
 1484273160	2.30.156.111	E	creation:true_creation:primordial_elements	dtconfect			4424
 1484273244	2.30.156.111	C	talk:creation:marlien:girdle	dtconfect	created		148
+1484516797	2.30.156.111	E	creation:magic	dtconfect			454
+1484516819	2.30.156.111	E	creation:marlien	dtconfect			27
+1484516892	2.30.156.111	D	creation:true_creation:primordial_entities	dtconfect	removed		-752
+1484516934	2.30.156.111	R	creation:true_creation:primordial_entities	dtconfect	old revision restored (2017/01/12 00:27)	1484180875	752
+1484517133	2.30.156.111	E	creation:true_creation:beyond	dtconfect			-184

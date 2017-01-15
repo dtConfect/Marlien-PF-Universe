@@ -1,5 +1,5 @@
 ====== Magic ======
-Magic is a phenomenon in some [[creation:creation|creations]] allowing for the manipulation of the world by a [[creation:true_creation:trinity]] inhabbiting it, usually taking one of two forms: [[#divine]], and [[#arcane]].
+Magic is a phenomenon in some [[creation:creation|creations]] allowing for the manipulation of the world by a [[creation:true_creation:primordial_elements#trinity]] inhabbiting it, usually taking one of two forms: [[#divine]], and [[#arcane]].
 
 ===== Divine =====
 Divine magic is the application of [[#mana]] under the dominion of a [[creation:true_creation:primordial_elements#divine]] [[creation:true_creation:primordial_elements#atman]] to some effect usually appealed for by a [[creation:true_creation:primordial_elements#mortal]] [[creation:true_creation:primordial_elements#atman]] engaged in a [[creation:true_creation:primordial_elements#trinity]]. Unlike [[#arcane]] magic, divine magic requires that the [[creation:true_creation:primordial_elements#divine]] [[creation:true_creation:primordial_elements#atman]] in question still be existant.
@@ -11,3 +11,6 @@ Arcane magic is the act of an [[creation:true_creation:primordial_elements#atman
 
 ==== Faux Divine ====
 Some [[creation:true_creation:primordial_elements#trinity|mortal]] entities within a [[creation:creation]] serve as subjects of whorship to others, and some such deities choose to answer appeals from these others with extensions of their own will, by arcane manipulation of [[creation:true_creation:primordial_elements#mana]], which may appear miraculous or divine to their whorshippers.
+
+==== Magical and Non-magical Creations ====
+[[creation:Creation|Creations]] in which arcane magic is impossible, heavily restricted, deeply integrated with the physics of the [[creation:creation]], kept secret from any inhabitants, or is otherwise sufficiently rare, are refered to as non-magical [[creation:creation|creations]], while those where magic is widely practiced are refered to as magical [[creation:creation|creations]].
