@@ -102,3 +102,9 @@
 1484516892	2.30.156.111	D	creation:true_creation:primordial_entities	dtconfect	removed		-752
 1484516934	2.30.156.111	R	creation:true_creation:primordial_entities	dtconfect	old revision restored (2017/01/12 00:27)	1484180875	752
 1484517133	2.30.156.111	E	creation:true_creation:beyond	dtconfect			-184
+1484518349	2.30.156.111	E	creation:true_creation:charon	dtconfect			2
+1484519948	2.30.156.111	D	planes:material_plane	dtconfect	removed		-1897
+1484519954	2.30.156.111	C	planes:material	dtconfect	created		1897
+1484519983	2.30.156.111	E	planes:planes	dtconfect			-6
+1484520068	2.30.156.111	C	creation:totum	dtconfect	created		566
+1484520440	2.30.156.111	C	deanacyastityktaxea	dtconfect	created		1189

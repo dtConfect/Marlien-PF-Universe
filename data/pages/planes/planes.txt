@@ -2,7 +2,7 @@
 Planes are a common type of subdivision within [[creation:creation|creations]]. The [[creation:creation]] [[creation:Marlien]] is divided into a number of planes.
 
 ==== List of Planes of Marlien ====
-  * [[Material Plane]]
+  * [[Material]]
   * [[Solitude]]
   * [[Halls of the Charon]]
   * [[Everstair]]
