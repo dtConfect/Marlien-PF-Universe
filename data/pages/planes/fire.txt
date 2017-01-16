@@ -1,2 +1,4 @@
 ====== The Fire Plane ====== 
-The Fire Plane is the home of [[:Tingma]].
+The Fire Plane is the home of [[:Tingma]], created by herself to seal her destructive power away from the other [[planes]]. Being a schism of [[planes:Material]], it is not entirely composed of fire, though the number of other substances which can retain a solid or even liquid state near to the intense heat of [[:Tingma]] is few, and many of the inhabitants, which include fire elementals, are composed at least in part of living fire or magma.
+
+The terrain is composed of splintered rock and magma flows, falling away from a central peak where the throne of [[:Tingma]] sits.
