@@ -108,3 +108,23 @@
 1484519983	2.30.156.111	E	planes:planes	dtconfect			-6
 1484520068	2.30.156.111	C	creation:totum	dtconfect	created		566
 1484520440	2.30.156.111	C	deanacyastityktaxea	dtconfect	created		1189
+1484521848	2.30.156.111	C	creation:true_creation	dtconfect	created		2606
+1484521882	2.30.156.111	E	creation:true_creation	dtconfect	[Unity] 		-16
+1484521902	2.30.156.111	E	creation:true_creation	dtconfect	[Transference] 		0
+1484521913	2.30.156.111	E	creation:true_creation	dtconfect	[True Creation] 		0
+1484522283	2.30.156.111	C	creation:time_travel	dtconfect	created		351
+1484522343	2.30.156.111	E	planes:planes	dtconfect	[Planes] 		90
+1484522788	2.30.156.111	E	creation:true_creation:primordial_elements	dtconfect	[Divine] 		-65
+1484522805	2.30.156.111	D	creation:true_creation:primordial_entities	dtconfect	removed		-752
+1484522968	2.30.156.111	E	creation:true_creation:primordial_elements	dtconfect	[Divine] 		37
+1484522999	2.30.156.111	C	creation:true_creation:watchers	dtconfect	created		22
+1484523037	2.30.156.111	D	creation:true_creation:watchers	dtconfect	removed		-22
+1484523091	2.30.156.111	E	creation:true_creation:primordial_elements	dtconfect	[Divine] 		0
+1484523292	2.30.156.111	E	creation:true_creation:charon	dtconfect			48
+1484523415	2.30.156.111	C	creation:true_creation:soul_steward	dtconfect	created		324
+1484523510	2.30.156.111	C	creation:true_creation:watcher	dtconfect	created		220
+1484523730	2.30.156.111	E	creation:marlien:dead_gods	dtconfect			264
+1484523762	2.30.156.111	C	creation:true_creation:god	dtconfect	created		145
+1484524113	2.30.156.111	E	creation:true_creation:god	dtconfect			760
+1484524414	2.30.156.111	E	creation:true_creation:soul_steward	dtconfect			406
+1484524747	2.30.156.111	E	creation:true_creation:god	dtconfect			927
