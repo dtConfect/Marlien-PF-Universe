@@ -114,3 +114,6 @@ planes:fire
 planes:shadow
 tingma
 fire
+creation:true_creation:soul_destruction
+creation:true_creation:soul_fusion
+creation:true_creation:soul_fission
