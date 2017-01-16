@@ -128,3 +128,24 @@
 1484524113	2.30.156.111	E	creation:true_creation:god	dtconfect			760
 1484524414	2.30.156.111	E	creation:true_creation:soul_steward	dtconfect			406
 1484524747	2.30.156.111	E	creation:true_creation:god	dtconfect			927
+1484524860	2.30.156.111	E	creation:true_creation	dtconfect	[True Creation] 		-1
+1484525103	2.30.156.111	E	creation:true_creation	dtconfect			555
+1484525294	2.30.156.111	E	creation:true_creation:primordial_elements	dtconfect	[Trinity] 		1
+1484525419	2.30.156.111	E	creation:true_creation:primordial_elements	dtconfect	[Atman] 		95
+1484525425	2.30.156.111	C	creation:true_creation:soul_enrichment	dtconfect	created		616
+1484525471	2.30.156.111	E	creation:true_creation:primordial_elements	dtconfect	[Hunger] 		0
+1484525503	2.30.156.111	E	creation:true_creation:primordial_elements	dtconfect	[Hunger] 		-262
+1484525553	2.30.156.111	E	creation:true_creation:primordial_elements	dtconfect	[Mana] 		-18
+1484525634	2.30.156.111	E	creation:true_creation:soul_enrichment	dtconfect			318
+1484525691	2.30.156.111	E	creation:true_creation:soul_enrichment	dtconfect			162
+1484525743	2.30.156.111	E	volcano	dtconfect			645
+1484526237	2.30.156.111	E	planes:planes	dtconfect	[List of Planes of Marlien] 		13
+1484526283	2.30.156.111	C	planes:fire	dtconfect	created		29
+1484526295	2.30.156.111	E	planes:planes	dtconfect	[List of Planes of Marlien] 		15
+1484527482	2.30.156.111	E	planes:fire	dtconfect			43
+1484527538	2.30.156.111	E	volcano	dtconfect			23
+1484527621	2.30.156.111	E	volcano	dtconfect			12
+1484527878	2.30.156.111	E	volcano	dtconfect			-63
+1484527974	2.30.156.111	E	volcano	dtconfect	[Marlien] 		7
+1484528049	2.30.156.111	E	volcano	dtconfect			13
+1484528346	2.30.156.111	E	volcano	dtconfect	[Totum] 		-101

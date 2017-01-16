@@ -9,3 +9,5 @@ Planes are more common among [[creation:magic|magical]] [[creation:creation|crea
   * [[Halls of the Charon]]
   * [[Everstair]]
   * [[Everdark]]
+  * [[Fire]]
+  * [[Shadow]]
