@@ -46,3 +46,9 @@ creation:true_creation:god
 creation:true_creation:soul_enrichment
 planes:fire
 planet
+creation:true_creation:soul_destruction
+creation:true_creation:soul_gigerium
+creation:true_creation:faux_soul
+undead
+creation:marlien:energy
+creation:energy

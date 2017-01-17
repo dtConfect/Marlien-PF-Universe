@@ -158,3 +158,20 @@
 1484605474	2.30.156.111	E	creation:true_creation:primordial_elements	dtconfect	[Atman] 		216
 1484605495	2.30.156.111	E	creation:true_creation:primordial_elements	dtconfect	[Atman] 		-6
 1484605826	2.30.156.111	E	creation:true_creation:primordial_elements	dtconfect	[Atman] 		111
+1484607965	2.30.156.111	C	creation:true_creation:soul_destruction	dtconfect	created		2077
+1484608304	2.30.156.111	E	creation:true_creation:soul_destruction	dtconfect	[Obliteration] 		195
+1484608366	2.30.156.111	E	creation:true_creation:soul_destruction	dtconfect			99
+1484608383	2.30.156.111	C	creation:true_creation:soul_gigerium	dtconfect	created		362
+1484608415	2.30.156.111	E	creation:true_creation:soul_gigerium	dtconfect			0
+1484609090	2.30.156.111	C	creation:true_creation:faux_soul	dtconfect	created		1224
+1484610298	2.30.156.111	E	creation:true_creation:faux_soul	dtconfect			124
+1484610316	2.30.156.111	E	creation:true_creation:faux_soul	dtconfect			39
+1484610487	2.30.156.111	C	undead	dtconfect	created		2136
+1484610528	2.30.156.111	E	creation:true_creation:faux_soul	dtconfect			-17
+1484610562	2.30.156.111	E	undead	dtconfect			8
+1484610630	2.30.156.111	E	creation:true_creation:faux_soul	dtconfect			1
+1484610663	2.30.156.111	E	creation:true_creation:faux_soul	dtconfect			16
+1484610676	2.30.156.111	E	undead	dtconfect			16
+1484610777	2.30.156.111	C	creation:marlien:energy	dtconfect	created		247
+1484610878	2.30.156.111	C	creation:energy	dtconfect	created		248
+1484610905	2.30.156.111	E	creation:energy	dtconfect			0

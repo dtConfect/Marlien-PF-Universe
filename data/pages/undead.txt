@@ -1,0 +1,11 @@
+====== Undead ======
+An undead creature formed of an incomplete [[creation:true_creation:primordial_elements#trinity|primordial vessel]], unfit to imprison any [[creation:true_creation:primordial_elements#Atman]], and some additional construct of [[creation:true_creation:primordial_elements#Mana]] which, by the rules of the [[creation:creation]] within which it exists, allows it to do so anyway. This construction of [[creation:true_creation:primordial_elements#Mana]] is often, but not always, a type of [[creation:true_creation:faux_soul]], or the imprisoned soul itself may be a [[creation:true_creation:faux_soul]] - which is somewhat easier to achieve in most [[creation:creation]]s.
+
+The [[creation:true_creation:primordial_elements#mana]] mechanics in [[creation:Marlien]] which allow for construction of [[creation:true_creation:faux_soul]]s and imprisonment of [[creation:true_creation:primordial_elements#Atman]] in unsuitable [[creation:true_creation:primordial_elements#trinity|primordial vessel]]s are typically composed of [[creation:Marlien:energy#negative_energy]].
+
+===== Alignment and Sentience =====
+Undead created with a [[creation:true_creation:faux_soul]] as the core are not typically evil, but they operate only by command, or very base instincts. Some are capable of sustaining themselves without drawing mana from, or otherwise harming others. Those which seek destruction, ruin, bloodshed and suffering do so only by the command of another. The same can largely be said for those where a [[creation:true_creation:faux_soul]] is attached to a real [[creation:true_creation:primordial_elements#Atman]]; while the [[creation:true_creation:faux_soul]] innevitably restrains sentience of the creature and may be used to manipulate its behaviour, it need not be explicitly evil, and will likely appear vastly more intelligent than one driven purely by a [[creation:true_creation:faux_soul]].
+
+An undead creature with a bound [[creation:true_creation:primordial_elements#Atman]] unrestrained by any [[creation:true_creation:faux_soul]] freely obeys the [[creation:true_creation:primordial_elements#Atman]] and abides by its alignment.
+
+

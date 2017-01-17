@@ -1,0 +1,7 @@
+====== Faux-soul ======
+A faux-soul is a construct of pure [[creation:true_creation:primordial_elements#Mana]] which, within the confines of the [[creation:creation]] within which the rules allow for it, mimics certain behaviours of a [[creation:true_creation:primordial_elements#Atman|soul]]. Such a construct may be self-sustaining, may need to feed upon some source of [[creation:true_creation:primordial_elements#Mana]], or may be fueled by some other willing entity - often with command over it. They may be somewhat autonomous, but exhibit only basic instincts and behaviours, often failing even to move any bound [[creation:true_creation:primordial_elements#trinity|vessel]] in a dextrous manner. Example applications of faux-souls include [[:undead]], [[:constructs]], and [[:homunculi]], though these may also be imbued with genuine [[creation:true_creation:primordial_elements#Atman|souls]].
+
+Sometimes, faux-souls may also be used to imprison and manipulate the behaviour of a real [[creation:true_creation:primordial_elements#Atman|soul]], often resulting in beings which behave like a twisted version of imprisoned [[creation:true_creation:primordial_elements#Atman|soul]], such as most intelligent [[:undead]].
+
+===== Faux Souls in Marlien =====
+Faux Souls in the [[creation:creation]] [[creation:Marlien]] are a construction of [[creation:Marlien:Energy#Negative Energy]].
