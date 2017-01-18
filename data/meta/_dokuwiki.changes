@@ -1,66 +1,9 @@
-1484004960	2.30.156.111	C	arthale	dtconfect	created		296
-1484005087	2.30.156.111	E	arthale	dtconfect	correction western->eastern		0
-1484005246	2.30.156.111	E	arthale	dtconfect			166
-1484005781	2.30.156.111	C	arthalean_empire	dtconfect	created		611
-1484006059	2.30.156.111	E	arthalean_empire	dtconfect			-1
-1484006214	2.30.156.111	C	sherum-ishtar	dtconfect	created		231
-1484006265	2.30.156.111	E	sherum-ishtar	dtconfect			28
-1484006519	2.30.156.111	C	paraesi	dtconfect	created		262
-1484006882	2.30.156.111	C	paraesi:north_sea	dtconfect	created		379
-1484006918	2.30.156.111	E	paraesi:north_sea	dtconfect			-7
-1484007348	2.30.156.111	C	naltera	dtconfect	created		69
-1484007989	2.30.156.111	C	creation:marlien	dtconfect	created		613
-1484008085	2.30.156.111	C	creation:creation	dtconfect	created		133
-1484008650	2.30.156.111	E	creation:marlien	dtconfect			667
-1484009456	2.30.156.111	E	creation:marlien	dtconfect			431
-1484009469	2.30.156.111	C	creation:spire	dtconfect	created		1336
-1484009536	2.30.156.111	E	creation:marlien	dtconfect			136
-1484009732	2.30.156.111	E	creation:spire	dtconfect	[Water Cycle] 		375
-1484009778	2.30.156.111	E	creation:marlien	dtconfect	[Topography] 		60
-1484031035	2.30.156.111	E	paraesi:north_sea	dtconfect			-35
-1484031267	2.30.156.111	E	saxi:religion	dtconfect			5
-1484031468	2.30.156.111	E	paraesi:north_sea	dtconfect			14
-1484031615	2.30.156.111	E	naltera	dtconfect			9
-1484031634	2.30.156.111	E	creation:creation	dtconfect			9
-1484031826	2.30.156.111	D	creation:spire	dtconfect	removed		-1711
-1484031838	2.30.156.111	E	naltera	dtconfect			-8
-1484031855	2.30.156.111	C	spire	dtconfect	created		1711
-1484031937	2.30.156.111	E	creation:marlien	dtconfect			39
-1484033214	2.30.156.111	E	creation:creation	dtconfect			184
-1484033400	2.30.156.111	C	planes:solitude	dtconfect	created		144
-1484033765	2.30.156.111	C	creation:true_creation	dtconfect	created		302
-1484033826	2.30.156.111	E	planes:solitude	dtconfect			20
-1484033893	2.30.156.111	E	creation:creation	dtconfect			20
-1484033919	2.30.156.111	C	creation:true_creation:primordial_elements	dtconfect	created		302
-1484034401	2.30.156.111	C	creation:true_creation:primordial_entities	dtconfect	created		426
-1484034522	2.30.156.111	E	creation:true_creation:primordial_elements	dtconfect			178
-1484034800	2.30.156.111	E	creation:true_creation:primordial_entities	dtconfect			228
-1484034846	2.30.156.111	E	creation:true_creation:primordial_entities	dtconfect			1
-1484034873	2.30.156.111	E	creation:true_creation:primordial_entities	dtconfect			6
-1484034912	2.30.156.111	E	creation:true_creation:primordial_entities	dtconfect			7
-1484035024	2.30.156.111	C	planes:planes	dtconfect	created		155
-1484035663	2.30.156.111	E	creation:marlien	dtconfect			164
-1484036146	2.30.156.111	C	volcano	dtconfect	created		616
-1484036178	2.30.156.111	E	volcano	dtconfect			7
-1484036227	2.30.156.111	E	volcano	dtconfect			7
-1484074553	2.30.156.111	C	wiki:site_notice	dtconfect	created		27
-1484075750	127.0.0.1	E	creation:true_creation		external edit		0
-1484075750	127.0.0.1	E	creation:true_creation:primordial_entities		external edit		0
-1484075750	127.0.0.1	E	creation:true_creation:primordial_elements		external edit		0
-1484077115	::1	D	creation:true_creation	dtconfect	removed		-302
-1484077199	::1	E	creation:true_creation:primordial_entities	dtconfect			-94
-1484077244	::1	E	creation:true_creation:primordial_entities	dtconfect			9
-1484077303	::1	E	creation:true_creation:primordial_entities	dtconfect			-1
-1484077442	::1	E	creation:true_creation:primordial_elements	dtconfect			-42
-1484077452	::1	R	creation:true_creation:primordial_elements	dtconfect	old revision restored (2017/01/10 20:15)	1484075750	1
-1484077621	::1	E	creation:true_creation:primordial_elements	dtconfect	[Atman] 		185
-1484133842	46.16.213.65	E	creation:creation	dtconfect			347
-1484134539	46.16.213.65	E	creation:creation	dtconfect			-73
 1484143092	46.16.213.65	C	fiend_storm	dtconfect	created		403
 1484143227	46.16.213.65	C	the_tiefling_storm	dtconfect	created		252
+1484172737	127.0.0.1	E	creation:true_creation:primordial_entities		external edit		0
+1484172737	127.0.0.1	E	creation:true_creation:primordial_elements		external edit		0
 1484176454	2.30.156.111	C	planes:the_halls_of_the_charon	dtconfect	created		312
 1484177524	2.30.156.111	E	planes:the_halls_of_the_charon	dtconfect			15
-1484172737	127.0.0.1	E	creation:true_creation:primordial_entities		external edit		0
 1484180607	2.30.156.111	E	creation:true_creation:primordial_entities	dtconfect			147
 1484180875	2.30.156.111	E	creation:true_creation:primordial_entities	dtconfect			23
 1484181392	2.30.156.111	C	creation:true_creation:beyond	dtconfect	created		466
@@ -94,7 +37,6 @@
 1484271766	2.30.156.111	E	start	dtconfect			2
 1484271800	2.30.156.111	E	creation:marlien:girdle	dtconfect			0
 1484273090	2.30.156.111	C	creation:magic	dtconfect	created		2216
-1484172737	127.0.0.1	E	creation:true_creation:primordial_elements		external edit		0
 1484273160	2.30.156.111	E	creation:true_creation:primordial_elements	dtconfect			4424
 1484273244	2.30.156.111	C	talk:creation:marlien:girdle	dtconfect	created		148
 1484516797	2.30.156.111	E	creation:magic	dtconfect			454
