@@ -9,3 +9,13 @@ On spires warmed by a nearby [[sun]] it is common for water to melt from the fro
 Typically the base of a spire is curved, gradually leveling out with the surrounding terrain of the plane (allowing for the mountains, of course). Gravity adjusts gradually, following this curve until it eventually pulls towards the plane itself.
 
 The tip and core of most spires consists of an incredibly dense, tough material, neither metal nor stone, encasing a molten core with veins connecting to the [[creation:Marlien]] itself. The density of matter increases gradually on the approach to the tip, as the depth of the inner shell decreases, and the tip of most spires is impervious to damage from any man-made tools.
+
+===== Great Spires =====
+Great spires are those which are abnormally large - usually large enough to sustain orbiting bodies far beyond their own atmosphere.
+
+===== List of Spires =====
+==== Spires ====
+  * [[:Naltera]]
+
+==== Great Spires ====
+  * [[:Dajoxin]]
