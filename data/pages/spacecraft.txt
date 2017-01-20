@@ -1,0 +1,2 @@
+====== Spacecraft ======
+A spacecraft is a vehicle capable of moving through space outside of the atmosphere of [[:Marlien]]'s mountains, [[:spire]]s, [[:planet]]s, [[:moon]]s, etc.

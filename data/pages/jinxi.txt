@@ -3,5 +3,11 @@ Jinxi (Jin-she) is a kinesis-reactive material found usually, but not always, up
 
 ===== Applications =====
 ==== Xiexio ====
-The [[:Xiexio]] use Jinxi for many purposes, including, but not limited to, personal transport, clothing and jewelery, weaponry, and hands-free interfaces. [[:Xiexio]] [[:spacecraft]] or other vehicles designed for individual control and transportation are often so modular in design and so saturated with Jinxi that the entire vessel can be moved about the operator to expose different systems for maintenance, inspection, or usage, rather than the operator having to move through. For larger vessels this design is both impractical and dangerous, as multiple [[:Xiexio]] would struggle to coordinate the manipulation of Jinxi without some additional telepathic aid.
+The [[:Xiexio]] use jinxi for many purposes, including, but not limited to, personal transport, clothing and jewelery, weaponry, and hands-free interfaces. [[:Xiexio]] [[:spacecraft]] or other vehicles designed for individual control and transportation are often so modular in design and so saturated with Jinxi that the entire vessel can be moved about the operator to expose different systems for maintenance, inspection, or usage, rather than the operator having to move through. For larger vessels this design is both impractical and dangerous, as multiple [[:Xiexio]] would struggle to coordinate the manipulation of Jinxi without some additional telepathic aid.
 
+
+===== Strength =====
+The ability of jinxi to move when constrained by other materials is dependant upon the purity of the Jinxi, and the operators capacity for manipulating Jinxi.
+
+===== Cost =====
+The cost to add the jinxi property to a weapon, armour, or other equipment, or to create [[:Xiexio#Xiexio Modular Armour]] from normal armour, is dictated by the quantity of Jinxi which must be built into the item in order to make manipulation of the item possible. Note that if the mass of jinxi required for this exceeds that which a creature is capable of manipulating, the property does not function.

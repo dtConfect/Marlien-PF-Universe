@@ -15,12 +15,35 @@ Facially, Xienonxionin vary from region to region, but to a human of [[:Naltera]
 
 In most Xienonxionin cultures, individuals of high standing wear loose-fitting robes with no specific sleeves cut, and paint their faces with heavy make-up in traditional styles. Robes and other garments, as with hair, are often set with kinesis-reactive beads.
 
+===== Xiexio Special Equipment =====
+==== Weapons ====
+=== Xiexio Martial Multilance ===
+
+=== Xiexio Martial Disruptor Pistol ===
+
+=== Xiexio Advanced Disruptor Rifle ===
+
+
+
+==== Armour and Shields ====
+=== Xiexio Modular Armour ===
+Modular armour is embedded with [[:jinxi]] and composed of layered scales with multi-purpose links to keep it together when at rest. A Xiexio wearing this armour, or other creature capable of manipulating [[:jinxi]] via [[#Telekinesis]], gains a +2 bonus to their AC unless they are somehow denied their Dexterity bonus to AC, or unaware of the attack. Any normal armour may be made into Modular armour; for the price increase, see the table of [[:jinxi#cost|jinxi cost]], based upon weight of the armour.
+
 ===== Stats =====
 
 ==== Racial Traits ====
 === Jinxi Telekinesis ===
-Xiexio may manipulate any object of sufficient [[:jinxi]] content as though they are under the effects of the spell [[http://www.d20pfsrd.com/magic/all-spells/t/telekinesis|Telekinesis]].
+Xiexio may manipulate any object of sufficient [[:jinxi]] content as though they are under the effects of the spell [[http://www.d20pfsrd.com/magic/all-spells/t/telekinesis|Telekinesis]]. Unless otherwise stated, all abilities resulting from this trait, including [[#Returning Weapons]], have a maximum range of 20ft.
 == Returning Weapons ==
 Xiexio may treat any weapon with the [[:jinxi]] property as [[http://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/returning|returning]].
+
+=== Xiexio Proficiency ===
+Xiexio do not automatically gain proficiency with any weapon with "Xiexio Advanced" in the name, but treat any weapon with "Xiexio Martial" in the name as a martial weapon, and automatically gain proficiency with any other weapon with "Xiexio" in the name.
+
+==== Racial Feats ====
+=== Far-reacher ===
+With training, a Xiexio may learn to increase the range of their [[#Jinxi Telekinesis]] up to 40ft.
+
+
 
 
