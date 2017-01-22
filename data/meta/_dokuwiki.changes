@@ -1,16 +1,3 @@
-1484271620	2.30.156.111	C	creation:marlien:girdle	dtconfect	created		716
-1484271688	2.30.156.111	E	creation:marlien:girdle	dtconfect			79
-1484271748	2.30.156.111	C	start	dtconfect	created		98
-1484271766	2.30.156.111	E	start	dtconfect			2
-1484271800	2.30.156.111	E	creation:marlien:girdle	dtconfect			0
-1484273090	2.30.156.111	C	creation:magic	dtconfect	created		2216
-1484273160	2.30.156.111	E	creation:true_creation:primordial_elements	dtconfect			4424
-1484273244	2.30.156.111	C	talk:creation:marlien:girdle	dtconfect	created		148
-1484516797	2.30.156.111	E	creation:magic	dtconfect			454
-1484516819	2.30.156.111	E	creation:marlien	dtconfect			27
-1484516892	2.30.156.111	D	creation:true_creation:primordial_entities	dtconfect	removed		-752
-1484516934	2.30.156.111	R	creation:true_creation:primordial_entities	dtconfect	old revision restored (2017/01/12 00:27)	1484180875	752
-1484517133	2.30.156.111	E	creation:true_creation:beyond	dtconfect			-184
 1484518349	2.30.156.111	E	creation:true_creation:charon	dtconfect			2
 1484519948	2.30.156.111	D	planes:material_plane	dtconfect	removed		-1897
 1484519954	2.30.156.111	C	planes:material	dtconfect	created		1897
@@ -121,3 +108,4 @@
 1484927159	2.30.156.111	E	xiexio:vehicles	dtconfect	[Personal Spheres] 		-1
 1484927483	2.30.156.111	C	space	dtconfect	created		214
 1484927500	2.30.156.111	E	space	dtconfect			0
+1485122412	2.30.156.111	E	creation:true_creation	dtconfect	[True Creation] 		1
