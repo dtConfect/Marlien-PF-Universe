@@ -109,3 +109,13 @@
 1484927483	2.30.156.111	C	space	dtconfect	created		214
 1484927500	2.30.156.111	E	space	dtconfect			0
 1485122412	2.30.156.111	E	creation:true_creation	dtconfect	[True Creation] 		1
+1485124606	2.30.156.111	E	creation:creation	dtconfect			1533
+1485124683	2.30.156.111	E	creation:creation	dtconfect			0
+1485124682	2.30.156.111	C	creation:girdle	dtconfect	created		69
+1485124726	2.30.156.111	E	creation:creation	dtconfect	[Lifespan] 		1
+1485124833	2.30.156.111	E	creation:true_creation	dtconfect	[Nature] 		720
+1485125640	2.30.156.111	E	creation:girdle	dtconfect			1697
+1485125813	2.30.156.111	C	creation:internal_mechanism	dtconfect	created		379
+1485125946	2.30.156.111	E	creation:internal_mechanism	dtconfect			212
+1485126028	2.30.156.111	E	creation:creation	dtconfect			184
+1485126051	2.30.156.111	D	creation:marlien:girdle	dtconfect	removed		-795

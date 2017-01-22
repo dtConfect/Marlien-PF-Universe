@@ -1,4 +1,12 @@
 ====== Creation ======
-The term 'creation' refers to a self-sustaining reality conjurred from the [[creation:true_creation:primordial_elements|primordial elements]] of existance. Typically a creation exists within a pocket of the vast fields of [[planes:Solitude]], and as such cannot be reached through regular navigation of [[planes:Solitude]].
+The term 'creation' refers to a self-sustaining reality conjured from the [[creation:true_creation:primordial_elements|primordial elements]] of existence.
 
-Though described above as self-sustaining, a creation requires only [[creation:true_creation:primordial_elements#anicca]] and [[creation:true_creation:primordial_elements#mana]], and may be either devoid of [[creation:true_creation:primordial_elements#time]], or temporal.
+===== Lifespan =====
+A creation's lifespan is generally as long as its creator or creators willed it to be. The circumstances of its demise are also defined by the creator. Sufficiently potent will wielded by a single, or collective of [[creation:true_creation:primordial_elements#atman]] may be enough to alter the [[#fate]] of the creation, however. To counter this, some creations are made with a [[creation:girdle#fissure]] that leaks [[creation:true_creation:primordial_elements#mana]] into [[creation:true_creation:beyond]], drawing the world towards a slow starvation in which the [[creation:girdle|boundaries]] of reality close in , and there is insufficient [[creation:true_creation:primordial_elements#mana]] within for any [[creation:true_creation:primordial_elements#atman]] to hold them at bay. There is no way to counter such a device, unless it is, in actuality, a [[creation:girdle#faux-fissure]].
+
+===== Fate =====
+Because all the temporal existence of a creation sits within the a-temporal [[creation:true_creation]], and is shaped for the most part by those interested [[creation:true_creation:primordial_elements#divine]] [[creation:true_creation:primordial_elements#atman]] named the creators of it, having a view upon the entire temporal painting of the creation in its sculpting, it may be said that there is a certain amount of predestination and fate within it.
+
+This is, however, not absolute: every [[creation:true_creation:primordial_elements#atman]] with an interest may have diverted a part of its [[creation:true_creation:primordial_elements#mana|will]] towards the sculpting of a creation, whether it entered into it or not, and yet further lack of precision is introduced by the unpredictable manner in which any [[creation:true_creation:primordial_elements#atman]] might manipulate the creation once placed into temporal existance - especially those brought in with their own agenda, or [[creation:true_creation:balance|against their will]].
+
+In fact, many creations seem to be deliberately designed with complex [[creation:internal mechanism]]s to ensure emergent behaviour, and a lack of specificity or precision in design.
