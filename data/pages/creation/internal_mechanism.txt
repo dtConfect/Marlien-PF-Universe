@@ -1,0 +1,7 @@
+====== Internal Mechanism ======
+An internal mechanism is a rule by which [[creation:true_creation:primordial_elements#mana]] and [[creation:true_creation:primordial_elements#mana]]-infused [[creation:true_creation:primordial_elements#anicca]] within a [[creation:creation]] abides, as designed by the creator or creators. It typically forms part of a complex and interlinked rule set which allows for phenomenon such as [[creation:magic]], and defines the laws of [[creation:physics]].
+
+===== Internal Mechanisms =====
+  * [[creation:physics]]
+  * [[creation:energy]]
+  * [[creation:magic]]
