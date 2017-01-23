@@ -1,4 +1,4 @@
 ====== Welcome ======
 Greetings traveller!
 
-[[creation:marlien:girdle|Your wiki-crawl begins here!]]
+[[creation:Marlien|Your wiki-crawl begins here!]]

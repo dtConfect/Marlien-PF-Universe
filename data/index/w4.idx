@@ -304,3 +304,7 @@ safe
 tube
 view
 rule
+hole
+deny
+meta
+role
