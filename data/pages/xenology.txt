@@ -1,0 +1,18 @@
+====== Xenology ======
+The sapient, living, material, or other entities which occupy [[creation:Marlien]]'s various [[planes:planes]], [[:spire]]s, [[:planet]]s, and other terrains or astronomical bodies vary greatly due to geographic separation, great distance, the influence of various [[creation:true_creation:god]]s, the [[creation:marlien:dead_gods#dissonance]] of the [[creation:marlien:dead_gods]], natural, guided, or magical evolution and mutation, and deliberate manufacture. Though there are commonalities in races and cultural phenomenon repeated throughout [[creation:Marlien]], such as the existence of [[human|humans]], [[elf|elves]], and other common races, there may also be significant differences between members of apparently similar races from, for example, two different [[:spire]]s. Oddities also exist which are more localised, such as the [[Xiexio]], and may be more common away from [[creation:Marlien]]'s main terrain, such as upon [[planet]]s. It is possible that such races are a highly circumstantial mutation, or a deliberate creation of some [[creation:true_creation:god]], or other power or intellect.
+
+Matters are also greatly complicated by the interaction of [[planes:planes]] beside the material, which result in uncountable variations on races such as [[Aasimar]], [[Ifrit]], [[Tiefling]], etc.. Here, we try to restrict our enumeration of races to those commonly found upon [[planes:material]], though [[Tiefling]]s are so numerous in some lands, for example, that they are included. Further, note that a race which may br common among many regions, such as [[Halfling]]s, might be entirely absent from another.
+
+===== Common Race Archetypes =====
+  * [[Human]]
+  * [[Elfin]]
+  * [[Dwarf]]
+  * [[Orc]]
+  * [[Goblin]]
+  * [[Ratfolk]]
+  * [[Gnoll]]
+  * [[Tiefling]]
+
+===== Unique Races =====
+[[Xiexio]]
+
