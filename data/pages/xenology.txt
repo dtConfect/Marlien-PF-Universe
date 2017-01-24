@@ -14,5 +14,6 @@ Matters are also greatly complicated by the interaction of [[planes:planes]] bes
   * [[Tiefling]]
 
 ===== Unique Races =====
-[[Xiexio]]
+  * [[Xiexio]]
+  * [[Gearfolk]]
 
