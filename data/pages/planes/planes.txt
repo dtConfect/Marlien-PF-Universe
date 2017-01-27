@@ -4,10 +4,26 @@ Planes are a common type of subdivision within [[creation:creation|creations]]. 
 Planes are more common among [[creation:magic|magical]] [[creation:creation|creations]].
 
 ==== List of Planes of Marlien ====
-  * [[Material]]
+Planes in the [[creation:creation]] [[creation:Marlien]] are divided into the [[#Materium]] and [[#Immaterium]]. While [[Solitude]] is the base form of the [[#Materium]], which is filled with both [[creation:true_creation:primordial_elements#mana]] and [[creation:true_creation:primordial_elements#anicca]], [[Astral]] is the base form of the [[#Immaterium]], which is primarily filled with [[creation:true_creation:primordial_elements#mana]] and [[creation:true_creation:primordial_elements#divine]] [[creation:true_creation:primordial_elements#atman]], appearing as void populated by nebulae and other strange forms.
+
+The [[#Materium]] and [[#Immaterium]] overlap, and are separated by [[Ethereal]].
+
+=== Materium ===
   * [[Solitude]]
+  * [[Material]]
+  * [[Celestial]]
+  * [[Shadow]]
   * [[Halls of the Charon]]
   * [[Everstair]]
   * [[Everdark]]
   * [[Fire]]
-  * [[Shadow]]
+  * [[Fish]]
+  * [[Machine]]
+
+=== Immaterium ===
+  * [[Astral]]
+  * [[Positive]]
+  * [[Negative]]
+
+=== Other ===
+  * [[Ethereal]]
