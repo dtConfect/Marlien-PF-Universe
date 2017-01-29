@@ -1,0 +1,2 @@
+====== Aircraft ======
+An aircraft is a vehicle capable of [[:aviation]]. Some aircraft are also [[:spacecraft]], [[:seacraft]] or [[:landcraft]].

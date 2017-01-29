@@ -1,0 +1,11 @@
+====== Aviation ======
+
+
+
+===== Techniques in Aviation =====
+==== Pitching====
+In many cases inter-[[:spire]] travel requires that a vehicle moves between two or more dominant gravitational fields, such as that of a [[:spire]] and that of [[creation:Marlien]]'s main terrain. In such situations, it is important to properly orientate the vehicle to avoid capsizing, or other sudden movements and unstable behaviors.
+
+In the most straightforward case, where the vehicle is moving out of the atmosphere of a [[:spire]], and into the atmosphere of [[creation:Marlien]]'s terrain, the vehicle should ideally be facing northward, moving northward and upward, and the aft of the vehicle weighed below the bow; this should keep the vehicle in an upright orientation and maintain velocity.
+
+In the reverse case, the vehicle should be facing the [[:spire]], moving toward the [[:spire]], and the aft of the vehicle again weighed below the bow; this should keep the vehicle in an upright orientation and maintain velocity.
