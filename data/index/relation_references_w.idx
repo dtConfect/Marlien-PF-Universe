@@ -207,3 +207,6 @@ planes:ethereal
 planes:fish
 planes:machine
 creation:true_creation:human
+aircraft
+seacraft
+landcraft
