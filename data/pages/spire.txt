@@ -1,5 +1,5 @@
 ====== Spire ======
-A spire is a body of terrain extending to an abnormal altitude from the mountainous plane of [[creation:marlien|Marlien]]. Strictly the term is applied only to those which hold at least one [[moon]] or [[star]] in their orbit (even if that orbit is shared with other spires), but significant extentions of the Marlien's terrain which lack any satelites have also been described as spires for lack of a better term. Otherwise, there is no defined height or gravitational factor which identifies between a mountain of the plane, or a spire.
+A spire is a body of terrain extending to an abnormal altitude from the mountainous plane of [[creation:marlien|Marlien]]. Strictly the term is applied only to those which hold at least one [[:moon]], [[:star]], or [[:planet]] in their orbit (even if that orbit is shared with other spires), but significant extentions of the Marlien's terrain which lack any satelites have also been described as spires for lack of a better term. Otherwise, there is no defined height or gravitational factor which identifies between a mountain of the plane, or a spire.
 
 ===== Common Features =====
 ==== Water Cycle ====
@@ -16,6 +16,7 @@ Great spires are those which are abnormally large - usually large enough to sust
 ===== List of Spires =====
 ==== Spires ====
   * [[:Naltera]]
+  * [[:Gunnl]]
 
 ==== Great Spires ====
   * [[:Dajoxin]]
