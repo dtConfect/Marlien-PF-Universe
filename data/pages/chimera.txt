@@ -1,0 +1,10 @@
+====== Chimera ======
+Chimera is the name given to numerous creatures which appear to be composed of discrete portions of other creatures, especially those created by the artifice of intelligent [[creation:true_creation:primordial_elements#mortal|mortals]] by the application of [[creation:magic]]. The term is only properly applied to creatures whose complete form is such, and should not be applied to a creature which is assembled for parts of separate creatures.
+
+===== Vinewyltt's Chimeras =====
+[[:Vinewyltt]] created a numerous Chimeras during his time:
+
+  * [[:Chimera:Gryphon]]
+  * [[:Chimera:Chimera]]
+  * [[:Chimera:Cockatrice]]
+

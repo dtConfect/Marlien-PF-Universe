@@ -1,8 +1,23 @@
-====== Vinewyltt ======
+====== Godmage Vinewyltt ======
 Vinewyltt was the founder and absolute ruler of [[:Uubvine]] for the entire duration of its existance. He was an unrivalled practitioner of the [[:creation:magic#arcane]] arts, a virtually-immortal human, creator of various [[:chimera]], and considered a deity by his [[:Uubvine]] subjects.
 
 Vinewyltt's assumed end came with his initiation, deliberate or not, and possibly also termination of, the [[:First North Sea Fiend Storm]].
 
-===== Other Names =====
-The Godmage
+===== Works =====
+==== Uubvine ====
+It is not known whether Vinewyltt set out to found the vast city that his following became, but in his prime the Godmage embraced his function as a national and spiritual leader, though less comfortable as a subject of worship.
+
+==== Creatures ====
+One of Vinewyltt's favoured pastimes and avenues of research was in the keeping of exotic creatures, bending them to his will, and experimentation in creating new species. Through his experiments he created countless unique creatures, some breeds of which far outlasted their creator:
+  * [[:chimera#Vinewyltt's Chimeras]]
+  * [[:hydra#Vinewyltt's Hydra]]
+  * [[:juba_bird]]
+
+==== The Fiend Storm ====
+
+===== Life =====
+In legends, Vinewyltt was already far older at the start of the [[:paraesi:north_sea:golden_age]] than any man should see, having already unlocked the secrets of eternal life.
+
+
+
 
