@@ -14,7 +14,7 @@ During the [[:first_north_sea_fiend_storm]] the surviving Warelin tribes of the 
 ====Aftermath ====
 Though peoples calling themselves Warelin survived the centuries-long maelstrom following the [[:first_north_sea_fiend_storm]], their culture was significantly changed, and they never ventured again into the northern mountains.
 
-Throughout this period in history separate tribes still existed, especially in the far eastern and southern edges of the civilization, but the majority of the Warelin peoples united into tight townships and city states for safety. The surviving [[:Emerowaeth]] mostly retreated to the forests, but a small number of the elven folk remained among the Warelin, [[:Emerowydthwaeth]] having been utterly destroyed.
+Throughout this period in history separate tribes still existed, especially in the far eastern and southern edges of the civilization, but the majority of the Warelin peoples united into tight townships and city states for safety. The surviving [[:Emerowydthwaeth]] mostly retreated to the forests, but a small number of the elven folk remained among the Warelin, [[:Emero_Wydth]] having been utterly destroyed.
 
 ==== Exodus ====
 In the [[:Year of Fire]] the Warelin peoples were forced to leave the northern shores of the [[:paraesi:North Sea]] after the loss of several cities in the initial eruption of [[:Zwo Kayan]], subsequent famine, and assaults [[:gnoll]] and [[:ratfolk]] factions.

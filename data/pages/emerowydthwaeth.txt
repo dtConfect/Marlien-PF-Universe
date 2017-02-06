@@ -1,0 +1,28 @@
+====== Emerowydthwaeth ======
+The Emerowydthwaeth were an ancient [[:Elfin]] people centred about the city [[:Emero Wydth]] at [[:paraesi:North_Sea:North Point]], above the [[:paraesi:North Sea]] of [[:Paraesi]]. They were the first recorded instance of their local kin moving away from [[:planes:feywild]] to dwell full-time on [[:planes:material]].
+
+===== Other Names =====
+  * Emerowaeth
+
+===== Etymology =====
+From the [[:Eladrin]] tongue:
+  * **Emero** - Beyond
+  * **Wydth** - Threshold
+  * **Waeth** - People
+
+===== History =====
+===== Origins =====
+
+===== Golden Age =====
+
+==== Weathering the Storm ====
+The city [[:Emero_wydth]] was felled near-instantaneously at the beginning of the [[:first_north_sea_fiend_storm]], and the majority of the people died with it.
+
+==== Aftermath ====
+What few of these [[:Elfin]] people remained after the [[:first_north_sea_fiend_storm|fiend storm]] lived among the [[:Warelin]] peoples.
+
+==== Exodus ====
+In the [[:Year of Fire]], when the [[:Warelin]] peoples were forced to migrate away, most of the Emerowaeth returned to [[:planes:feywild]], or else deep into the forests.
+
+==== Post Ice Age ====
+Many descendants of the Emerowaeth were so changed by their ancestors' time spent on [[:planes:material]] that they could not easily adapt back to life in [[:planes:feywild]], and so they remain on [[:planes:material]], living in the forests as guardians of the portals.
