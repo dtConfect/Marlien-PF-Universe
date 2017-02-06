@@ -1,9 +1,20 @@
 ====== Darohl ======
 Darohl was a civilisation in ancient times based in a geothermally-supported jungle basin amidst the mountains north of the [[paraesi:North Sea]] of [[:paraesi]]. It was destroyed in the [[:Arcane Holocaust]] by [[:Graadien]], using [[:soul_bomb]]s.
 
+===== Languages =====
+  * Daro
+
+===== Races =====
+Darohl's populace was made up of [[:Dwarf|Dwarves]] and [[:Human]]s. The [[:Dwarves]] were extinct in the [[:Arcane Holocaust]], but evidence of them remains in writings, sculpture, and other artworks of the time.
+  * [[:Human]]
+  * [[:Dwarf]]
+
+===== Culture =====
+Darohl culture was largely peaceable and focused upon the creation of great works of machinery, architecture, and scultpure. They were highly advanced technologically, with supplementary magical advancement.
+
 ===== Assets =====
 ==== Settlements ====
-At its height, Darohl had only one major city - the subterranean metropolis Darohl, built into the foothills of the [[:Zwo Kayan]].
+At its height, Darohl had only one major city - the subterranean metropolis Darohl, built into the foothills of the [[:Zwo Kayan]]. The city Darohl was forever changed in the [[:Arcane Holocaust]], named thereafter [[:Forsaken Darohl]].
 
 
 
