@@ -1,0 +1,34 @@
+====== Gryphon ======
+Gryphons are large, intelligent animals with the hind-quarters of a lion, the front part of a great eagle, and a pair of massive, feathered wings.
+
+===== Stats =====
+==== Pathfinder ====
+=== Vanilla ===
+http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/griffon
+
+=== Mighty ===
+As [[#Vanilla]] but gains the following **Special Abilities**:
+
+== Wingbeat ==
+As a full round action, a mighty gryphon may beat its enormous wings once to create a blast of air as the [[http://www.d20pfsrd.com/magic/all-spells/g/gust-of-wind|Gust of Wind]] spell, in a line as wide as the gryphon, and may also move up to half its **fly** speed in any direction other than that of the air blast. The gryphon must have a **fly** speed of at least 20ft to use this ability, and must move at least 10ft.
+
+=== Stormy ===
+As [[#Vanilla]] but gains the following **Special Abilities**:
+
+== Static Blast ==
+Every 2d4 rounds the gryphon may muster the the power of storms to channel electricity and winds as the spell [[http://www.d20pfsrd.com/magic/all-spells/d/discordant-blast|Discordant Blast]]. This ability is activated as a standard action, and must be released as another standard action the next round, or forfeit. Between these actions gryphon can move at only half speed, has the benefits of the [[http://www.d20pfsrd.com/magic/all-spells/d/defensive-shock|Defensive Shock]] spell (CL 1), and the air within ten feet of it, thick with electricity, is considered difficult terrain.
+
+=== Arcane ===
+As [[#Vanilla]] but gains two level 1 spontaneous spell slots, and one level 2 spontaneous spell slot per day, with knowledge of  up to three spells from the [[http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-2nd-Level-Sorcerer-Wizard-Spells|Wizard/Sorcerer spell list]]. For example:
+
+  * [[http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-2nd-Level-Sorcerer-Wizard-Spells|Glitterdust]]
+  * [[http://www.d20pfsrd.com/magic/all-spells/a/arcane-disruption|Arcane Disruption]]
+  * [[http://www.d20pfsrd.com/magic/all-spells/b/burst-of-radiance|Burst of Radiance]]
+  * [[http://www.d20pfsrd.com/magic/all-spells/f/fire-breath|Fire Breath]]
+  * [[http://www.d20pfsrd.com/magic/all-spells/c/command-undead|Command Undead]]
+
+
+===== Ecology =====
+
+
+

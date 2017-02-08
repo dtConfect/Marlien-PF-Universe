@@ -1,21 +1,3 @@
-1485605781	2.30.156.111	E	planes:astral	dtconfect			-4
-1485706752	46.16.213.65	E	spacecraft	dtconfect			87
-1485709860	46.16.213.65	E	spacecraft	dtconfect			-110
-1485709901	46.16.213.65	C	spaceflight	dtconfect	created		147
-1485709968	46.16.213.65	C	aircraft	dtconfect	created		146
-1485710951	46.16.213.65	C	aviation	dtconfect	created		1013
-1485826187	2.30.156.111	E	undead	dtconfect			1361
-1485857888	46.16.213.65	E	paraesi:north_sea	dtconfect			157
-1485858808	46.16.213.65	E	creation:true_creation:charon	dtconfect	[Haleysi, Agyanism] 		24
-1485858919	46.16.213.65	C	haleysi	dtconfect	created		762
-1485858950	46.16.213.65	E	haleysi	dtconfect	[Religion] 		13
-1485859046	46.16.213.65	E	spire	dtconfect	[Spires] 		15
-1485859095	46.16.213.65	E	planet	dtconfect			48
-1485859154	46.16.213.65	E	spire	dtconfect	[Spire] 		16
-1485859674	46.16.213.65	C	kwonyen	dtconfect	created		167
-1485861040	46.16.213.65	E	xiexio	dtconfect			417
-1485861212	46.16.213.65	E	xiexio	dtconfect			165
-1485891047	2.30.156.111	C	doewer	dtconfect	created		148
 1485911786	2.30.156.111	D	doewer	dtconfect	removed		-148
 1485911797	2.30.156.111	C	fist_of_braedur	dtconfect	created		148
 1486324076	2.30.156.111	C	warelin	dtconfect	created		777
@@ -60,3 +42,6 @@
 1486344484	2.30.156.111	E	vinewyltt	dtconfect			-37
 1486344730	2.30.156.111	E	uubvine	dtconfect			231
 1486344878	2.30.156.111	E	vinewyltt	dtconfect			221
+1486514273	2.30.156.111	C	chimera:gryphon	dtconfect	created		1386
+1486514583	2.30.156.111	E	chimera:gryphon	dtconfect	[Pathfinder] 		352
+1486515064	2.30.156.111	E	chimera:gryphon	dtconfect	[Pathfinder] 		606
