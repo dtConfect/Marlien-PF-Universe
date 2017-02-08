@@ -1,0 +1,34 @@
+====== Cockatrice ======
+The cockatrice is a small, avian creature resembling an emaciated rooster, but with darker feathers, and brittle scales lining parts of its body, including the long, reptilian tail. It is small, stupid, vicious, and territorial beyond its means, preferring to flock together with other cockatrices in squalid, disease-ridden pits.
+
+===== Stats =====
+==== Pathfinder ====
+http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/cockatrice
+
+====== Vinewyltt's Cockatrice ======
+At some point in his late madness, [[:vinewyltt]] saw fit to contrive a [[:chimera]] which preserved none of the majesty of the [[:chimera:gryphon]], but all the blight of the cockatrice. The spawn of these creatures were a constant blight to the [[:Warelin]] people in the decades immediately following the [[:first_north_sea_fiend_storm]], but they eventually succumbed to a wasting disease that passed their immunities, and died prematurely. The population therefore dwindled, and by [[:Year_Zero]] this strain of cockatrice is very rare.
+
+In addition to the magical petrification caused by their bite, Vinewyltt's creations are disease infested monsters capable of quickly laying waste to any settlement they come in contact with, despite their relative disinterest in preying on humans. If a cockatrice is sighted near a town or village it should be driven away by a large crowd - at a safe distance - wielding flaming torches. Under no circumstances should projectiles actually be flung at the beasts, for they are prone to frenzy when provoked, and there is little hope of escaping infection or petrification should the enraged creature attack.
+===== Stats =====
+==== Pathfinder ====
+As a [[:chimera:gryphon]], with the following changes:
+
+=== Stupid ===
+The cockatrice's **Int** is reduced to 2. It cannot understand human language as a [[:chimera:gryphon]] can.
+It loses the **Iron Will** feat.
+
+=== Graceless ===
+The cockatrice's **fly** speed is reduced to 60 ft.
+It loses the two talon attacks of the [[:chimera:gryphon]]
+
+=== Plague Bearer ===
+Apply the [[http://www.d20pfsrd.com/bestiary/monster-listings/templates/plague-bearer-cr-2|Plague Bearer]] template. The cockatrice's diseases are:
+
+  * **Disease Cloud**: Unspecified
+  * **Disease**: Unspecified
+  * **Diseased Flesh**: Unspecified
+
+=== Petrification ===
+[[:Vinewyltt]]'s cockatrice gains the **Petrification** ability of the standard [[http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/cockatrice|cockatrice]].
+
+
