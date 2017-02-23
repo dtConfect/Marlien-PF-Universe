@@ -3,6 +3,7 @@ Planes are a common type of subdivision within [[creation:creation|creations]]. 
 
 Planes are more common among [[creation:magic|magical]] [[creation:creation|creations]].
 
+===== Marlien =====
 ==== List of Planes of Marlien ====
 Planes in the [[creation:creation]] [[creation:Marlien]] are divided into the [[#Materium]] and [[#Immaterium]]. While [[Solitude]] is the base form of the [[#Materium]], which is filled with both [[creation:true_creation:primordial_elements#mana]] and [[creation:true_creation:primordial_elements#anicca]], [[Astral]] is the base form of the [[#Immaterium]], which is primarily filled with [[creation:true_creation:primordial_elements#mana]] and [[creation:true_creation:primordial_elements#divine]] [[creation:true_creation:primordial_elements#atman]], appearing as void populated by nebulae and other strange forms.
 
@@ -28,3 +29,8 @@ The [[#Materium]] and [[#Immaterium]] overlap, and are separated by [[Ethereal]]
 
 === Other ===
   * [[Ethereal]]
+
+==== Planar Travel ====
+Planar travel in [[creation:Marlien]] is neither simple nor safe; only planes which intersect eachother may be trivially passed between, and then only at the points of intersection, while other areas or entire planes which are partly or fully adjacent require a significant effort, and others pose further challenges.
+
+In the case of [[Material]] and [[Halls of the Charon]] for example, the two are at no point adjacent, and are in fact a great distance apart within the [[#Materium]]. The quickest way to traverse this distance is to first move to some [[#Immaterium|immaterial]] plane, but doing so near to a populated [[:spire]], [[:planet]], or other body, will likely attract the attention of myriad entities within [[Astral]]. This is why lesser [[:creation:true_creation:charon]] and other beings able to survive in [[:space]] sometimes rise up and away from such bodies before [[http://www.d20pfsrd.com/magic/all-spells/p/plane-shift/|plane shifting]].
