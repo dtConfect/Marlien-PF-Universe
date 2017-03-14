@@ -17,9 +17,28 @@ Xienonxionin culture varies around the globe, but the dominant culture is a heav
 
 In most Xienonxionin cultures individuals of high standing wear loose-fitting robes with no specific sleeves cut and paint their faces with heavy make-up in traditional styles. Robes and other garments, as with hair, are often laced with [[:jinxi]] to allow for telekinetic control. Those in active occupations, such as [[#spacers]], often wear tighter-fitting garments. Lower classes of Xiexio, or those in roles requiring physical activity, often cut their hair short, while others tie it into ornate knots with the aid of their telekinesis. Messy or free-flowing hair may be seen as a sign of stupidity, laziness, lack of pride, or disregard for others.
 
+===== Adventurers =====
+Xienonxionin do not make a habit of journeying off world, but those who do are usually [[#spacers]]. Their society upon [[:Thexingja]] is advanced enough that true adventuring is not common amongst the inner cities; open spaces are easily surveyed with the aid of long-range vehicles, so only the deepest jungles and most imposing terrain on the fringes of civilisation remain to be explored.
+
+===== Male Names =====
+Anlo, Anfen, Bofen, Jailan, Joa, Xin, Xiofen
+
+===== Female Names =====
+Aila, Aing, Aixa, Chia, Juchu, Jaixia, Xei, Xiedoa
+
 ===== Stats =====
+**Table: Random Height and Weight**
+^ Gender ^ Base Height ^ Height Modifier ^ Base Weight ^ Weight Modifier
+| Male   | 4 ft. 2 in. | +2d10 in. (4 ft. 4 in. - 5 ft. 10 in.) | 75 lbs. | + 2d8x5 lbs. (85 lbs. - 155 lbs.)
+| Female | 4 ft. 0 in. | +2d20 in. (4 ft. 2 in. - 5 gt. 8 in.)  | 70 lbs. | + 2d8x5 lbs. (80 lbs. - 150 lbs.)
 
 ==== Racial Traits ====
+=== Ability Score Racial Traits ===
+Xiexio are nimble and keen-minded, but the light frames which allow them to lift their own weight through Jinxi telekinesis are also easily damaged.
+  * +2 Dexterity
+  * +2 Wisdom
+  * -2 Constitution
+
 === Jinxi Telekinesis ===
 Xiexio may manipulate any object of sufficient [[:jinxi]] content as though they are under the effects of the spell [[http://www.d20pfsrd.com/magic/all-spells/t/telekinesis|Telekinesis]]. Unless otherwise stated, all abilities resulting from this trait, including [[#Returning Weapons]], have a maximum range of 20ft.
 == Returning Weapons ==
