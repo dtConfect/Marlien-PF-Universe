@@ -5,17 +5,35 @@ Jinxi (Jin-she) is a kinesis-reactive material found usually, but not always, up
 ==== Xiexio ====
 The [[:Xiexio]] use jinxi for many purposes, including, but not limited to, personal transport, clothing and jewelery, weaponry, and hands-free interfaces. [[:Xiexio]] [[:spacecraft]] or other vehicles designed for individual control and transportation are often so modular in design and so saturated with Jinxi that the entire vessel can be moved about the operator to expose different systems for maintenance, inspection, or usage, rather than the operator having to move through the vessel. For larger vessels this design is both impractical and dangerous, as multiple [[:Xiexio]] would struggle to coordinate the manipulation of Jinxi without some additional telepathic aid.
 
+===== Jinxi Telekinesis =====
+==== Potential ====
+Manipulation of Jinxi via telekinesis requires a certain amount of mental discipline. A creature's Wisdom therefore defines the upper limit of the mass of Jinxi they can operate with proficiency.
 
-===== Strength =====
-The ability of jinxi to move when constrained by other materials is dependant upon the mass of the Jinxi, and the operators capacity for manipulating it. Jinxi qualities and their lifting capacities are detailed in the table below. Note that the lifting capacity of pure Jinxi does not improve with refinement, though it does make it tougher and more compact, which is necessary for most applications.
+When over 'Subtle' capacity, a penalty is incurred on all rolls relating to Jinxi telekinesis or the Wisdom characteristic, including attack rolls with Jinxi-operated weapons, fly checks to operate [[xiexio:vehicles|vehicles]], a [[:xiexio#Jinxi Disarm|disarm]] attempts.
 
-==== Table: Jinxi Lifting Capacities ====
-^ Quality^ Lifting Capacity ^^^ Description ^
+=== Table: Operation Potential ===
+^ Operation Category ^ Upper Limit ^ Penalty ^ Details ^
+| Subtle | 2 lbs. per Wisdom | 0 | Operating with ease. Fit to fly with grace or operate weapons and machinery skilfully. |
+| Rough  | 4 lbs. per Wisdom | -4 | Operating with difficulty. Steady enough to operate simple flying vehicles. |
+| Clumsy | 6 lbs. per Wisdom | -10 | Operating with great mental strain. Attempting to move something cumbersome. Too dangerous to attempt flight. |
+
+==== Strength ====
+The ability of Jinxi to move when constrained by other materials is dependant upon the mass of the Jinxi, and the operators capacity for manipulating it. Jinxi qualities and their lifting capacities are detailed in the table below. Note that the lifting capacity of pure Jinxi does not improve with refinement, though it does make it tougher and more compact, which is necessary for most applications.
+
+=== Table: Jinxi Lifting Capacities ===
+^ Quality ^ Lifting Capacity ^^^ Description ^
 ^ :::   ^ 1 lb. ^ 5 lb. ^ 10 lb. ^ :::       ^
 | Raw    | 2 lb. + self | 10 lb. + self | 20 lb. + self | Raw Jinxi as found underground in seams. Presence of other elements contributing to its total weight hinders its lifting capacity. |
-| Pure   | 6 lb. + self | 30 lb. + self | 60 lb. + self | Raw Jinxi as sometimes found in natural crystaline formation, or manufactured from Raw Jinxi. |
-| Refined | 6 lb. + self | 30 lb. + self | 60 lb. + self | Jinxi refined to various densities and opacities, usually through deliberate processes. |
-
+| Pure   | 5 lb. + self | 25 lb. + self | 50 lb. + self | Raw Jinxi as sometimes found in natural crystaline formation, or manufactured from Raw Jinxi. |
+| Refined | 5 lb. + self | 25 lb. + self | 50 lb. + self | Jinxi refined to various densities and opacities, usually through deliberate processes. |
 
 ===== Cost =====
-The cost to add the jinxi property to a weapon, armour, or other equipment, or to create [[:Xiexio#Xiexio Modular Armour]] from normal armour, is dictated by the quantity of Jinxi which must be built into the item in order to make manipulation of the item possible. Note that if the mass of jinxi required for this exceeds that which a creature is capable of manipulating, the property does not function.
+The cost to add the Jinxi property to a weapon, armour, or other equipment, or to create [[:Xiexio#Xiexio Modular Armour]] from normal armour, is dictated by the quantity of Jinxi which must be built into the item in order to make manipulation of the item possible. Note that if the mass of Jinxi required for this exceeds the operating creature's [[#operating potential]], the property does not function. To calculate the cost, compare the original weight of the item to [[#Table: Jinxi Lifting Capacities]] to work out the quantity of Jinxi required, then refer to [[#Table: Jinxi Cost]], below. Assume that Refined Jinxi of some form is required.
+
+For example, a Javelin weighs 2 lbs., so 0.5 lbs of Jinxi is slightly more than enough to allow it to be operated by Jinxi Telekinesis, with 0.5 lbs. of spare lifting capacity for anything you might like to balance upon the tip. Note that this also increases the weight of the Javelin to 2.5 lbs. - it is not possible to replace any of the existing mass of the Javelin with Jinxi without compromising it's structural integrity, since Jinxi is fragile.
+
+^ Quality ^ Cost per lb.^^^^
+^ :::     ^ Jinxi-abundant Culture ^ Jinxi-aware Culture ^ Jinxi-less Culture ^ Jinxi-remote Culture ^
+| Raw     | 12 gp | 120 gp | 1200 gp | 6000 gp |
+| Pure    | 20 gp | 200 gp | 2000 gp | 7000 gp |
+| Refined | 30 gp | 300 gp | 4000 gp | 8000 gp |
