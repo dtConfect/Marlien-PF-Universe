@@ -28,23 +28,31 @@ Aila, Aing, Aixa, Boxi, Chia, Jaixia, Juchu, Kia, Lai, Li, Lina, Lulu, Minam, Na
 
 ===== Stats =====
 **Table: Random Height and Weight**
-^ Gender ^ Base Height ^ Height Modifier ^ Base Weight ^ Weight Modifier
-| Male   | 4 ft. 2 in. | +2d10 in. (4 ft. 4 in. - 5 ft. 10 in.) | 75 lbs. | + 2d8x5 lbs. (85 lbs. - 155 lbs.)
-| Female | 4 ft. 0 in. | +2d20 in. (4 ft. 2 in. - 5 gt. 8 in.)  | 70 lbs. | + 2d8x5 lbs. (80 lbs. - 150 lbs.)
+^ Gender ^ Base Height ^ Height Modifier ^ Base Weight ^ Weight Modifier ^
+| Male   | 4 ft. 2 in. | +2d10 in. (4 ft. 4 in. - 5 ft. 10 in.) | 75 lbs. | + 2d8x5 lbs. (85 lbs. - 155 lbs.) |
+| Female | 4 ft. 0 in. | +2d20 in. (4 ft. 2 in. - 5 gt. 8 in.)  | 70 lbs. | + 2d8x5 lbs. (80 lbs. - 150 lbs.) |
 
 ==== Racial Traits ====
 === Ability Score Racial Traits ===
-Xiexio are nimble and keen-minded, but the light frames which allow them to lift their own weight through Jinxi telekinesis are also easily damaged.
+Xiexio are nimble and keen-minded, but the light frames which allow them to lift their own weight through Jinxi telekinesis are weak and easily damaged.
+  * -2 Strength
   * +2 Dexterity
-  * +2 Wisdom
   * -2 Constitution
+  * +2 Wisdom
 
 === Jinxi Telekinesis ===
-Xiexio may manipulate any object of sufficient [[:jinxi]] content as though they are under the effects of the spell [[http://www.d20pfsrd.com/magic/all-spells/t/telekinesis|Telekinesis]]. Unless otherwise stated, all abilities resulting from this trait, including [[#Returning Weapons]], have a maximum range of 20ft.
+Xiexio may manipulate any object of sufficient [[:jinxi]] content as described under the general rules of [[:jinxi#Jinxi Telekinesis]]. Objects may be moved as subtly as through controlled by hand, through movements of heavier objects will be likewise clumsy. Unless otherwise stated, all abilities resulting from this trait, including [[#Returning Weapons]], have a maximum range of 20ft.
+
 == Returning Weapons ==
 Xiexio may treat any thrown weapon or object with the [[:jinxi]] property as [[http://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/returning|returning]].
+
 == Guidance ==
 When making a throwing attack using any weapon or object with the [[:jinxi]] property, a Xiexio may make course corrections giving a +1 bonus to hit if the target is within the range of their telekinesis.
+
+== Jinxi Disarm ==
+Xiexio may attempt to [[http://www.d20pfsrd.com/gamemastering/combat/#TOC-Disarm|Disarm]] another creature of any item with sufficient [[:jinxi]] content, either held or under their telekinetic control. To do so, the Xiexio must be within range of the item, and have the [[:jinxi#potential]] to move the item along with everything else they are currently manipulating.
+
+The disarm attempt is made unarmed, at range, provoking no attack of opportunity, and with a bonus equal to the Xiexio's Wisdom bonus. If the item is held, the disarm attempt must meet the holder's CMD. If it is being manipulated by another's telekinesis, the other instead makes a Will Save against the disarm attempt.
 
 === Xiexio Proficiency ===
 Xiexio do not automatically gain proficiency with any weapon with "Xiexio Advanced" in the name, but treat any weapon with "Xiexio Martial" in the name as a martial weapon, and automatically gain proficiency with any other weapon with "Xiexio" in the name.
