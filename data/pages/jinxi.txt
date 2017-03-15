@@ -9,7 +9,7 @@ The [[:Xiexio]] use jinxi for many purposes, including, but not limited to, pers
 ==== Potential ====
 Manipulation of Jinxi via telekinesis requires a certain amount of mental discipline. A creature's Wisdom therefore defines the upper limit of the mass of Jinxi they can operate with proficiency.
 
-When over 'Subtle' capacity, a penalty is incurred on all rolls relating to Jinxi telekinesis or the Wisdom characteristic, including attack rolls with Jinxi-operated weapons, fly checks to operate [[xiexio:vehicles|vehicles]], a [[:xiexio#Jinxi Disarm|disarm]] attempts.
+When over 'Subtle' capacity, a penalty is incurred on all rolls relating to Jinxi telekinesis or the Wisdom characteristic, including attack rolls with Jinxi-operated weapons, fly checks to operate [[xiexio:vehicles|vehicles]], [[:xiexio#Jinxi Disarm|disarm]] attempts, and perception checks.
 
 === Table: Operation Potential ===
 ^ Operation Category ^ Upper Limit ^ Penalty ^ Details ^
@@ -34,6 +34,6 @@ For example, a Javelin weighs 2 lbs., so 0.5 lbs of Jinxi is slightly more than 
 
 ^ Quality ^ Cost per lb.^^^^
 ^ :::     ^ Jinxi-abundant Culture ^ Jinxi-aware Culture ^ Jinxi-less Culture ^ Jinxi-remote Culture ^
-| Raw     | 12 gp | 120 gp | 1200 gp | 6000 gp |
-| Pure    | 20 gp | 200 gp | 2000 gp | 7000 gp |
-| Refined | 30 gp | 300 gp | 4000 gp | 8000 gp |
+| Raw     | 3 gp | 70 gp  | 1000 gp | 6000 gp |
+| Pure    | 4 gp | 80 gp |  1500 gp | 7000 gp |
+| Refined | 5 gp | 100 gp | 2000 gp | 8000 gp |
