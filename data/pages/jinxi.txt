@@ -17,7 +17,15 @@ When over 'Subtle' capacity, a penalty is incurred on all rolls relating to Jinx
 | Rough  | 4 lbs. per Wisdom | -4 | Operating with difficulty. Steady enough to operate simple flying vehicles. |
 | Clumsy | 6 lbs. per Wisdom | -10 | Operating with great mental strain. Attempting to move something cumbersome. Too dangerous to attempt flight. |
 
-==== Strength ====
+==== Operation ====
+Use of Jinxi telekinesis in combat should be governed by the following rules:
+  * Retrieving small weapons or items from belts or convenient containers via telekinesis requires a swift action and never provokes attacks of opportunity.
+  * Items up to the upper limit of the Rough [[#Table: Operational Potential|operational potential]] presently controlled via Jinxi telekinesis may be moved anywhere within the controller's range as a swift action, and follow the controller's movements as a free action. For the clumsy category moving with such a quantity of objects halves movement speed, and moving them within range requires a move action.
+  * Taking up new items into telekinetic control, releasing items presently controlled, setting them into an orbiting patter, or halting such a pattern, requires only a move action, which may affect multiple items at once, but only in one particular way.
+  * Throwing items under telekinetic control beyond the controller's range requires a standard action, while doing so within the controller's range may be achieved with a standard action. Multiple items thrown as a single action must have the same target, and each throw is made with a -4 penalty.
+  * Any use of such telekinesis upon an item within the range of similar abilities of another creature provoke an opposed Will check, allowing the other to take control of the item if it matches your own result.
+
+==== Lifting Capacity ====
 The ability of Jinxi to move when constrained by other materials is dependant upon the mass of the Jinxi, and the operators capacity for manipulating it. Jinxi qualities and their lifting capacities are detailed in the table below. Note that the lifting capacity of pure Jinxi does not improve with refinement, though it does make it tougher and more compact, which is necessary for most applications.
 
 === Table: Jinxi Lifting Capacities ===

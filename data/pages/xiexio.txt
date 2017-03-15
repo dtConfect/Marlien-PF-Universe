@@ -79,15 +79,22 @@ Modular armour is embedded with [[:jinxi]] and composed of layered scales with m
 
 ==== Shields ====
 === Orbitals ===
-Orbitals are a form of hands-free physical shield designed to require as little manual guidance as possible. A creature capable of controlling [[:jinxi]] may cause a number of Orbitals equal to their Wisdom bonus (max 4) to orbit their body, protecting them from attacks as the spell [[http://www.d20pfsrd.com/magic/all-spells/h/hedging-weapons|hedging weapons]]. Orbitals may be grasped and thrown, or thrown using telekinesis, but they are treated as an improvised weapon, dealing damage appropriate for the size (1 S, 1d2 M, etc.).
+Orbitals are a form of hands-free physical shield designed to require as little manual guidance as possible. A creature capable of controlling [[:jinxi]] may cause a number of Orbitals equal to their Wisdom bonus (max 4) to orbit their body. Orbitals may be grasped and thrown, or thrown using telekinesis, but they are treated as an improvised weapon, dealing damage appropriate for the size (1 S, 1d2 M, etc.).
 
-A creature wielding orbitals takes a -1 penalty to sight-based perception checks and all ranged or melee attacks per active orbital.
+Actions such as deploying orbitals, halting or resuming their orbit, require a move action, but multiple may be affected at once.
+
+A creature wielding orbitals gains AC and takes an obscuring penalty to sight-based perception checks and all ranged or melee attacks per active orbital.
 
 == Bladed Orbitals ==
   * 1d2 S, 1d3 M
   * P
   * monk
 Bladed orbitals are a type of light orbital favoured by Xiexio monks, modified to serve as viable weapons. They are not treated as improvised weapons when thrown and may be used for melee attacks without provoking attacks of opportunity.
+
+^ Orbitals ^ AC Bonus ^ Obscuring Penalty ^ Weight ^ Cost ^
+| Light    | +0.5     | -0.5              | 3 lbs.| 6 gp |
+| Heavy    | +1       | -1                | 6 lbs.| 14 gp |
+| Bladed, Light | +0.5| -0.5              | 2 lbs.| 10 gp |
 
 ==== Other ====
 === Orbital Belt ===
