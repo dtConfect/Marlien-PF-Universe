@@ -16,4 +16,5 @@ Matters are also greatly complicated by the interaction of [[planes:planes]] bes
 ===== Unique Races =====
   * [[Xiexio]]
   * [[Gearfolk]]
+  * [[Svailorn]]
 
