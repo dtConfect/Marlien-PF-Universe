@@ -1,5 +1,5 @@
 ====== Svailorn ======
-The Svailorn are a race of large, [[fey]] [[humanoid]]s native to [[Naltera]]'s [[moon]], [[Lufia]]. They are approximately 50% taller than [[Human]]s, slight, and pale-skinned, resembling the [[Elfin]] to whom they are related.
+The Svailorn are a race of tall, [[fey]] [[humanoid]]s native to [[Naltera]]'s [[moon]], [[Lufia]]. They are approximately 50% taller than [[Human]]s, slight, and pale-skinned, resembling the [[Elfin]] to whom they are related.
 
 ===== Culture =====
 Svailorn cities are as mighty and glorious as those of the [[Elfin]] in [[planes:feywild]]. No attention to detail is spared, and vast quantities of [[moon_dust]] and fine fabrics are gathered together to maintain their aesthetic. Even Svailorn dwelling in jungles and forests ensure that though their settlements may be difficult to find, they will inspire awe upon arrival: they are towering, layered castles of intricately carved and woven wood, draped in animal skins and fabrics as fine as those made in the cities, lit by innumerable lanterns shaded by coloured papers. 
@@ -9,15 +9,39 @@ Svailorn cities are as mighty and glorious as those of the [[Elfin]] in [[planes
 
 ===== Stats =====
 == Table: Random Height and Weight ==
+^ Gender ^ Base Height ^ Height Modifier ^ Base Weight ^ Weight Modifier ^
+| Male   | 7 ft. 4 in. | +4d8 in. (7 ft. 8 in. - 10 ft. 4 in.) | 170 lbs. | + 3d8x5 lbs. (185 lbs. - 305 lbs.) |
+| Female | 6 ft. 8 in. | +4d8 in. (7 ft. 0 in. - 9 ft. 8 in.)  | 130 lbs. | + 3d8x5 lbs. (145 lbs. - 265 lbs.) |
+
+== Size ==
+Despite their height, Svailorn are Medium creatures and thus recieve no bonuses or penalties due to their size.
+
+== Type ==
+Fey/Humanoid
+
+== Base Speed ==
+Svailorn have a base speed of 30 feet.
+
+== Vision ==
+Svailorn are accustomed to longer periods of twilight than most, and have low-light vision.
 
 ==== Racial Traits ====
 === Ability Score Racial Traits ===
-Svailorn have a regal but genial air and are quick to
+Svailorn have a regal but genial air and are quick to make friends. They are studious and have a great interest in all kinds of lore. Being accustomed to weaker gravity than most, their bodies are weak for their size.
+
+  * -2 Strength
+  * +2 Intelligence
+  * +2 Charisma
 
 === Silver Tongue ===
-The culture and native tongue of the Svailorn is well suited to diplomatic and amiable discourse, and this carries through to their understanding of other languages. They gain a +2 bonus to Diplomacy and Charm checks, or other mental checks relating to friendly negotiation..
+The culture and native tongue of the Svailorn is well suited to diplomatic and amiable discourse, and this carries through to their understanding of other languages. They gain a +2 bonus to Diplomacy and Charm checks, to other mental checks relating to friendly negotiation, and to Linguistics or Sense Motive checks to deal with creatures speaking an unknown language.
 
-=== Vision ===
+=== Svailorn Reach ===
+When wielding weapons designed for a Svailorn, not including unarmed strikes, knuckle dusters, cestus, daggers, or similar small weapons, Svailorn gain +5ft reach because of their elongated form.
 
+=== Elven Immunities ===
+Svailorn are immune to magic sleep effects and gain a +2 racial saving throw bonus against enchantment spells and effects.
 
-===== Sub-Races =====
+=== Elven Magic ===
+Svailorn recieve a +2 racial bonus on caster level checks made to overcome spell resistance. In addition, Svailorn recieve a +2 racial bonus on Spellcraft skill checks made to identify properties of magic items.
+

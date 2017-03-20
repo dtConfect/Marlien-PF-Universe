@@ -30,7 +30,7 @@ Aila, Aing, Aixa, Boxi, Chia, Jaixia, Juchu, Kia, Lai, Li, Lina, Lulu, Minam, Na
 **Table: Random Height and Weight**
 ^ Gender ^ Base Height ^ Height Modifier ^ Base Weight ^ Weight Modifier ^
 | Male   | 4 ft. 2 in. | +2d10 in. (4 ft. 4 in. - 5 ft. 10 in.) | 75 lbs. | + 2d8x5 lbs. (85 lbs. - 155 lbs.) |
-| Female | 4 ft. 0 in. | +2d20 in. (4 ft. 2 in. - 5 gt. 8 in.)  | 70 lbs. | + 2d8x5 lbs. (80 lbs. - 150 lbs.) |
+| Female | 4 ft. 0 in. | +2d10 in. (4 ft. 2 in. - 5 ft. 8 in.)  | 70 lbs. | + 2d8x5 lbs. (80 lbs. - 150 lbs.) |
 
 ==== Racial Traits ====
 === Ability Score Racial Traits ===
