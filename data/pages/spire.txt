@@ -3,7 +3,7 @@ A spire is a body of terrain extending to an abnormal altitude from the mountain
 
 ===== Common Features =====
 ==== Water Cycle ====
-On spires warmed by a nearby [[sun]] it is common for water to melt from the frozen mountains about the curving base, flowing gradually down the spire, eventually evaporating or reaching the tip, where it flows off in a stream. Water flowing away from the tip eventually evaporates, and evaporated water from the tip or otherwise flows northward on solar winds, towards the plane. The water vapour then condenses and falls back to the spire, or to the plane.
+On spires warmed by a nearby [[star]] it is common for water to melt from the frozen mountains about the curving base, flowing gradually down the spire, eventually evaporating or reaching the tip, where it flows off in a stream. Water flowing away from the tip eventually evaporates, and evaporated water from the tip or otherwise flows northward on solar winds, towards the plane. The water vapour then condenses and falls back to the spire, or to the plane.
 
 === Structure ===
 Typically the base of a spire is curved, gradually leveling out with the surrounding terrain of the plane (allowing for the mountains, of course). Gravity adjusts gradually, following this curve until it eventually pulls towards the plane itself.
@@ -17,6 +17,7 @@ Great spires are those which are abnormally large - usually large enough to sust
 ==== Spires ====
   * [[:Naltera]]
   * [[:Gunnl]]
+  * [[:Twin Spires]]
 
 ==== Great Spires ====
   * [[:Dajoxin]]

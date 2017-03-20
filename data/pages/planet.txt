@@ -3,5 +3,7 @@ Planets in the [[creation:creation]] of [[creation:Marlien]] are a rare type of 
 
 The orbital patterns of planets in [[creation:Marlien]] vary greatly, with some locked into orbits with [[spire]]s, others with [[star]]s, and others in more complex arrangements.
 
+Because a planet must meet the same criterion as in [[creation:Totum]] in order to qualify as such, a body close enough to a [[spire]] or to the floor of [creation:Marlien]] to share their atmosphere is never considered a planet, as it has not [[wp>Clearing_the_neighbourhood|cleared its neighbouring region]]; instead, it is likely a [[moon]].
+
 ===== List of Planets =====
   * [[:Thexingja]]
