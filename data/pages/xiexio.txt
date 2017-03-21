@@ -3,7 +3,7 @@ Xiexio (she-shö) is the abbreviated name of the Xienonxionin (She-non-shö-nin)
 The Xienonxionin are a race of technologically advanced, four-armed humanoids uniquely native to [[:Thexingja]].
 
 ===== Jinxi Telekinesis =====
-Whether by natural evolution, the product of genetic manipulation, or a deliberate mutation influenced by some outsider, Xienonxionin and some other creatures native to [[:Thexingja]] posses the innate ability to manipulate kinesis-sensitive materials such as [[:jinxi]] via telekinesis. As a result, many Xiexio technologies, tools, vehicles, etc. accommodate hands-free operation by integration of [[:jinxi]]. It is cheap enough on [[:Thexingja]] to add sufficient quantities of [[:jinxi]] to most small tools and arms, to produce jewelery and even clothing laced with the material. Many of the smaller [[:xiexio:vehicles|xiexio vehicles]], including one-man [[:spacecraft]]s are built using sufficient quantities of [[:jinxi]] to allow telekinetic rearrangement of modules, and even piloting, though the Xiexio prefer to build a projected, haptic interface into important machines in case of circumstances which interfere with the use of telekinesis.
+Whether by natural evolution, the product of genetic manipulation, or a deliberate mutation influenced by some outsider, Xienonxionin and some other creatures native to [[:Thexingja]] posses the innate ability to manipulate kinesis-sensitive materials such as [[:jinxi]] via telekinesis. As a result, many Xiexio technologies, tools, vehicles, etc. accommodate hands-free operation by integration of [[:jinxi]]. It is cheap enough on [[:Thexingja]] to add sufficient quantities of [[:jinxi]] to most small tools and arms, to produce jewelery and even clothing laced with the material. Many of the smaller [[:xiexio:vehicles|xiexio vehicles]], including one-man [[:spacecraft]] are built using sufficient quantities of [[:jinxi]] to allow telekinetic rearrangement of modules, and even piloting, though the Xiexio prefer to build a projected, haptic interface into important machines in case of circumstances which interfere with the use of telekinesis.
 
 Typically military vehicles, weapons and arms designed for use around hostile Xienonxionin do not utilise Jinxi, as it leaves such tools open to outside influence. Modular personal [[:spacecraft]] which rely heavily on [[:Jinxi]] manipulation usually include a system of tethers which can be manually locked in place from the cockpit, preventing external sabotage.
 
@@ -21,6 +21,13 @@ In most Xienonxionin cultures individuals of high standing wear loose-fitting ro
 Xienonxionin do not make a habit of journeying off world, but those who do are usually [[#spacers]]. Their society upon [[:Thexingja]] is advanced enough that true adventuring is not common amongst the inner cities; open spaces are easily surveyed with the aid of long-range vehicles, so only the deepest jungles and most imposing terrain on the fringes of civilization remain to be explored.
 
 ===== Spacers =====
+A much varied profession captured under one title; Spacers operate under the authority of the Spacers' Guild, which although technically beneath the [[#council]] operates independently of it, and could easily oppose it in military might. Open conflict or espionage, however, is in the interests of neither party.
+
+Agents of the Spacers' Guild include merchants traveling to what few distant places the Xienonxionin openly trade with, [[xiexio:Pioneers]] who explore the far reaches of space to gather information for scientific and navigational purposes, [[xiexio:Shepherds]] who police trade routes and space within the Xiexio territories, and Sheriffs or Special Agents, who travel throughout Xiexio space and distant places, usually alone or in pairs, to pursue the interests of the [[#Council]] or Spacer's Guild in the name of peace-keeping.
+
+The hierarchy of the Spacer's Guild is complex, with the lowest ranks being mercenary and ill-defined in role, but a clear upper echelon and system of promotion beyond that. Almost anyone can get a Spacer's license and begin to operate as a mercenary Spacer, but they are similarly easily dismissed at such a low rank.
+
+At higher ranks individuals will begin to see the gears of guild politics in motion as their orders from their superiors begin to conflict with those of the council. Even a high-ranking Sheriff is duty-bound to follow the orders of the lowliest [[#Council]] official, though that official must lean on the support of his superiors if the guild as an entity questions those orders. In most cases this level of politicking is taken care of by the guild directors and high counselors themselves, or a dissenting member of either organisation will clearly hold no sway over an agent's actions, but on occasion, a guild agent recieving opposing orders will be left in the lurch, having to muster what support they can to do what they believe is right.
 
 ===== Mage Technicians =====
 In the [[creation:creation]] [[creation:Marlien]], practitioners of the [[creation:magic#arcane|arcane arts]] are not common among the Xiexio, with the majority of such being naturally-gifted sorcerers who practice mental discipline in order to direct their energies. Such practitioners have a high standing in Xiexio society, since their technology in [[creation:Marlien]] is based upon arcane principles, and their batteries charged with magical energy.
@@ -29,11 +36,16 @@ Production teams for Xiexio computer technology, advanced mechanics, [[spacecraf
 
 Few Xiexio work as dedicated battery chargers as they once might have in small villages, because there are limits to even the most talented channeller's daily potential. For larger communities [[xiexio:Ritual Plant]]s are usually set up with an infrastructure which provides energy to all surrounding buildings and sites; once activated by a group of Mage Technicians, such a site requires only one or two to monitor and maintain it over its lifespan. Mages who wish to make a little extra income may sometimes add themelves to a public directory so that others may come to them for a cheap top-up.
 
+===== Council =====
+Composed of the leaders of every nation on [[Thexingja]], including those who choose to remain isolated from the larger Xienonxionin culture, the High Council dictates global policy, and instructs Xienonxionin affairs off-world, usually in coordination with the [[#Spacers|Spacer's Guild]].
+
+Besides the national leaders, selected by whatever the preferred means are of each, the High Council employs a large number of clerks and career politicians.
+
 ===== Male Names =====
-Anlo, Anfen, Bofen, Jailan, Ji, Juwan, Joa, Kaia, Lofa, Minam, Xin, Xiofen
+Anlo, Anfen, Ban, Bofen, Haiso, Jailan, Ji, Juwan, Joa, Kaia, Li, Lofa, Minam, Silu, Taifen, Taiwen, Xin, Xiofen, Xiowen
 
 ===== Female Names =====
-Aila, Aing, Aixa, Boxi, Chia, Jaixia, Juchu, Kia, Lai, Li, Lina, Lulu, Minam, Nala, Nana, Nien, Nioa, Xei, Xiedoa, Xiuyin
+Aila, Ain, Aing, Aixa, Boxi, Chia, Fei, Gia, Jailan, Jaixia, Jinxi, Juchu, Kia, Lai, Li, Lina, Lulu, Minam, Nala, Nana, Nien, Nioa, Xei, Xiedoa, Xiuyin
 
 ===== Stats =====
 **Table: Random Height and Weight**
@@ -50,7 +62,7 @@ Xiexio are nimble and keen-minded, but the light frames which allow them to lift
   * +2 Wisdom
 
 === Jinxi Telekinesis ===
-Xiexio may manipulate any object of sufficient [[:jinxi]] content as described under the general rules of [[:jinxi#Jinxi Telekinesis]]. Objects may be moved as subtly as through controlled by hand, through movements of heavier objects will be likewise clumsy. Unless otherwise stated, all abilities resulting from this trait, including [[#Returning Weapons]], have a maximum range of 20ft.
+Xiexio may manipulate any object of sufficient [[:jinxi]] content as described under the general rules of [[:jinxi#Jinxi Telekinesis]]. Objects may be moved as subtly as through controlled by hand, through movements of heavier objects will be likewise clumsy. Unless otherwise stated, all abilities resulting from this trait, including [[:jinxi#Returning Weapons]], have a maximum range of 20ft.
 
 === Xiexio Proficiency ===
 Xiexio do not automatically gain proficiency with any weapon with "Xiexio Advanced" in the name, but treat any weapon with "Xiexio Martial" in the name as a martial weapon, and automatically gain proficiency with any other weapon with "Xiexio" in the name.
