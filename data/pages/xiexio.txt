@@ -13,12 +13,21 @@ Xienonxionin are of roughly human stature and build, tending to be shorter on av
 Facially, Xienonxionin vary from region to region, but to a human of [[:Naltera]], the notable differences in face shape are a tendency towards narrow noses, large lips, and lobeless ears which are sometimes pointed, and sometimes like small circles. Furthermore, where a human would have eyebrows a Xienonxionin appears to have a row of spherical stones set into the brow; though hard and solid these are actually formed from the same material as the hair, and so share its colour. The number of these stones varies from person to person but is usually between 3 and 5, with the stones nearer to the centre being on average the largest.
 
 ===== Culture =====
-Xienonxionin culture varies around the globe, but the dominant culture is a heavily class-based, communist meritocracy ruled by a a high council composed of the leaders from all nations of [[:Thexingja]], including those who otherwise distance themselves from the global culture. Personal humility and respect of one's superiors is a general point of importance, though an individual's standing is more flexible than in many cultures, being strongly swayed by the current situation - an aristocrat will often bow before his tailor, dressmaker, bodyguard, etc. when he is pleased with their work, or has an awkward request. As a result, interactions between Xienonxionin may appear erratic to other races, with each participant fluctuating between different levels of respectfulness and flippancy. This is worsenned by the fact that other races typically only deal with [[#council officials]] and [[#spacers]], whose close standing, differing roles, and exposure to other cultures often makes for a lack of social precedent.
+Xienonxionin culture varies around the globe, but the dominant culture is a heavily class-based, communist meritocracy ruled by a a high council composed of the leaders from all nations of [[:Thexingja]], including those who otherwise distance themselves from the global culture. Personal humility and respect of one's superiors is a general point of importance, though an individual's standing is more flexible than in many cultures, being strongly swayed by the current situation - an aristocrat will often bow before his tailor, dressmaker, bodyguard, etc. when he is pleased with their work, or has an awkward request. As a result, interactions between Xienonxionin may appear erratic to other races, with each participant fluctuating between different levels of respectfulness and flippancy. This is worsenned by the fact that other races typically only deal with [[#council|council officials]] and [[#spacers]], whose close standing, differing roles, and exposure to other cultures often makes for a lack of social precedent.
 
 In most Xienonxionin cultures individuals of high standing wear loose-fitting robes with no specific sleeves cut and paint their faces with heavy make-up in traditional styles. Robes and other garments, as with hair, are often laced with [[:jinxi]] to allow for telekinetic control. Those in active occupations, such as [[#spacers]], often wear tighter-fitting garments. Lower classes of Xiexio, or those in roles requiring physical activity, often cut their hair short, while others tie it into ornate knots with the aid of their telekinesis. Messy or free-flowing hair may be seen as a sign of stupidity, laziness, lack of pride, or disregard for others.
 
 ===== Adventurers =====
-Xienonxionin do not make a habit of journeying off world, but those who do are usually [[#spacers]]. Their society upon [[:Thexingja]] is advanced enough that true adventuring is not common amongst the inner cities; open spaces are easily surveyed with the aid of long-range vehicles, so only the deepest jungles and most imposing terrain on the fringes of civilisation remain to be explored.
+Xienonxionin do not make a habit of journeying off world, but those who do are usually [[#spacers]]. Their society upon [[:Thexingja]] is advanced enough that true adventuring is not common amongst the inner cities; open spaces are easily surveyed with the aid of long-range vehicles, so only the deepest jungles and most imposing terrain on the fringes of civilization remain to be explored.
+
+===== Spacers =====
+
+===== Mage Technicians =====
+In the [[creation:creation]] [[creation:Marlien]], practitioners of the [[creation:magic#arcane|arcane arts]] are not common among the Xiexio, with the majority of such being naturally-gifted sorcerers who practice mental discipline in order to direct their energies. Such practitioners have a high standing in Xiexio society, since their technology in [[creation:Marlien]] is based upon arcane principles, and their batteries charged with magical energy.
+
+Production teams for Xiexio computer technology, advanced mechanics, [[spacecraft]], weapons systems, and so on, are a mix of pure technicians, who are often more the more skilled, and mage technicians, who are necessary for advanced technologies. Technologies are designed specifically to be safe and usable by anyone, regardless of magical ability.
+
+Few Xiexio work as dedicated battery chargers as they once might have in small villages, because there are limits to even the most talented channeller's daily potential. For larger communities [[xiexio:Ritual Plant]]s are usually set up with an infrastructure which provides energy to all surrounding buildings and sites; once activated by a group of Mage Technicians, such a site requires only one or two to monitor and maintain it over its lifespan. Mages who wish to make a little extra income may sometimes add themelves to a public directory so that others may come to them for a cheap top-up.
 
 ===== Male Names =====
 Anlo, Anfen, Bofen, Jailan, Ji, Juwan, Joa, Kaia, Lofa, Minam, Xin, Xiofen
@@ -42,17 +51,6 @@ Xiexio are nimble and keen-minded, but the light frames which allow them to lift
 
 === Jinxi Telekinesis ===
 Xiexio may manipulate any object of sufficient [[:jinxi]] content as described under the general rules of [[:jinxi#Jinxi Telekinesis]]. Objects may be moved as subtly as through controlled by hand, through movements of heavier objects will be likewise clumsy. Unless otherwise stated, all abilities resulting from this trait, including [[#Returning Weapons]], have a maximum range of 20ft.
-
-== Returning Weapons ==
-Xiexio may treat any thrown weapon or object with the [[:jinxi]] property as [[http://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/returning|returning]].
-
-== Guidance ==
-When making a throwing attack using any weapon or object with the [[:jinxi]] property, a Xiexio may make course corrections giving a +1 bonus to hit if the target is within the range of their telekinesis.
-
-== Jinxi Disarm ==
-Xiexio may attempt to [[http://www.d20pfsrd.com/gamemastering/combat/#TOC-Disarm|Disarm]] another creature of any item with sufficient [[:jinxi]] content, either held or under their telekinetic control. To do so, the Xiexio must be within range of the item, and have the [[:jinxi#potential]] to move the item along with everything else they are currently manipulating.
-
-The disarm attempt is made unarmed, at range, provoking no attack of opportunity, and with a bonus equal to the Xiexio's Wisdom bonus. If the item is held, the disarm attempt must meet the holder's CMD. If it is being manipulated by another's telekinesis, the other instead makes a Will Save against the disarm attempt.
 
 === Xiexio Proficiency ===
 Xiexio do not automatically gain proficiency with any weapon with "Xiexio Advanced" in the name, but treat any weapon with "Xiexio Martial" in the name as a martial weapon, and automatically gain proficiency with any other weapon with "Xiexio" in the name.
