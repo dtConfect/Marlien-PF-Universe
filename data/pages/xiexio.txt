@@ -106,8 +106,30 @@ The disruptor lance is a weapon often attached to personal [[spacecraft]], and o
 | Disruptor Lance (No Jinxi) | 50 lbs | 350 gp |
 ==== Armour ====
 === Modular Armour ===
-Modular armour is embedded with [[:jinxi]] and composed of layered scales with multi-purpose links to keep it together when at rest. A Xiexio wearing this armour, or other creature capable of manipulating [[:jinxi]] via [[#Telekinesis]], gains a +2 bonus to their AC unless they are somehow denied their telekinetic ability, or Dexterity bonus to AC, or are caught unaware of the attack. Any normal armour may be made into modular armour; for the price increase, see the table of [[:jinxi#cost|jinxi cost]], based upon weight of the armour.
+Modular armour is embedded with [[:jinxi]] and composed of layered scales with multi-purpose links to keep it together when at rest. A Xiexio wearing this armour, or other creature capable of manipulating [[:jinxi]] via [[#Telekinesis]], gains a +2 bonus to their AC unless they are somehow denied their telekinetic ability, or Dexterity bonus to AC, or are caught unaware of the attack. Any medium or heavy armour may be made into modular armour; for the price increase, see the table of [[:jinxi#cost|jinxi cost]], based upon weight of the armour.
 
+=== Xiexio Fabrics ===
+The advanced technologies of the Xeixio allow for the production of lightweight, flexible, and yet durable materials, which provide some protection without restricting the movements of the wearer.
+
+This allows for a special armour category, No Armours, which do not require proficiency, or count as armour for monks or those with similar features.
+
+^ No Armours ^^^^^^^^^
+^ Armour ^ Cost ^ Armour/Shield Bonus ^ Maxmimum Dex Bonus ^ Armour Check Penalty ^ Arcane Spell Failure Chance ^ Speed ^^ Weight ^
+^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ 30 ft. ^ 20 ft. ^ ::: ^
+| Xipao Skinsuit | 100 gp | +1 | - | 0 | 0% | 30 ft. | 20 ft. | 5 lbs. |
+| Xipao Robes | 150 gp | +2 | +8 | 0 | 0% | 30 ft. | 20 ft. | 6 lbs. |
+
+^ Light Armours ^^^^^^^^^
+^ Armour ^ Cost ^ Armour/Shield Bonus ^ Maxmimum Dex Bonus ^ Armour Check Penalty ^ Arcane Spell Failure Chance ^ Speed ^^ Weight ^
+^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ 30 ft. ^ 20 ft. ^ ::: ^
+| Guardsuit | 150 gp | +3 | +8 | -1 | 5% | 30 ft. | 20 ft. | 10 lbs. |
+| Armoured Xipao Coat | 200 gp | +4 | +6 | -1 | 10% | 30 ft. | 20 ft. | 15 lbs. |
+
+^ Medium Armours ^^^^^^^^^
+^ Armour ^ Cost ^ Armour/Shield Bonus ^ Maxmimum Dex Bonus ^ Armour Check Penalty ^ Arcane Spell Failure Chance ^ Speed ^^ Weight ^
+^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ 30 ft. ^ 20 ft. ^ ::: ^
+| Platecoat |
+| Platesuit |
 ==== Shields ====
 === Orbitals ===
 Orbitals are a form of hands-free physical shield designed to require as little manual guidance as possible. A creature capable of controlling [[:jinxi]] may cause a number of Orbitals equal to their Wisdom bonus (max 4) to orbit their body. Orbitals may be grasped and thrown, or thrown using telekinesis, but they are treated as an improvised weapon, dealing damage appropriate for the size (1 S, 1d2 M, etc.).
