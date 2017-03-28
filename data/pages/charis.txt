@@ -1,11 +1,10 @@
 ====== Charis ======
-Charis are an offshoot of the [[creation:true_creation:charon]] in the [[creation:creation]] [[creation:Marlien]], serving under the ex-[[creation:true_creation:charon]] [[creation:true_creation:charon#Immortals|Immortal]] now named [[Hera]]. Unlike the [[creation:true_creation:charon]], who may generally be considered [[alignment:True Neutral]] or [[alignment:Lawful Neutral]], the Charis are generally [[alignment:Chaotic Good]], or [[alignment:Neutral Good]]. Thought their interference in [[creation:true_creation:primordial_elements#mortal]] affairs is infrequent, they are generally more direct, and always less secretive.
+Charis are an offshoot of the [[creation:true_creation:charon]] in the [[creation:creation]] [[creation:Marlien]], serving under the ex-[[creation:true_creation:charon]] [[creation:true_creation:charon#Immortals|Immortal]] now named [[Hera]]. Unlike the [[creation:true_creation:charon]], who may generally be considered [[alignment:True Neutral]] or [[alignment:Lawful Neutral]], the Charis are generally [[alignment:Chaotic Good]], or [[alignment:Neutral Good]]. Thought their interference in [[creation:true_creation:primordial_elements#mortal]] affairs is infrequent, they are generally more direct, and always less secretive than the [[creation:true_creation:Charon]].
 
 The Charis reside in [[planes:celestial]] and have a strong affinity with [[creation:Marlien:Energy#Positive|Positive Energy]].
 
 ===== Origin =====
-[[Ubrik Pearl]]
-
+The Charis were founded by [[Hera]] when she laid claim to the [[Ubrik Pearl]], an artifact left behind by the [[creation:Marlien:Dead Gods]] themselves, perhaps for this precise purposed. The pearl relieves its bearer - even a [[creation:true_creation:Charon]] - of any bonds of form imposed upon themselves and their creations by the [[creation:Marlien:Dead Gods]], and so [[Hera]] was able to easily distinguish both herself and her subordinates from their peers.
 ===== Appearance =====
 [[Hera]] and her servants exalt an aesthetic of intricacy and extravagance in all but their names, eschewing the complex naming conventions of the [[creation:true_creation:charon]] along with the grim appearance imposed upon them by the [[creation:Marlien:Dead Gods]].
 
@@ -14,9 +13,15 @@ The Charis reside in [[planes:celestial]] and have a strong affinity with [[crea
 Having surpassed the limitations of form imposed upon them by the [[creation:Marlien:Dead Gods]], the one [[creation:true_creation:charon#Immortals|Immortal]], [[Heratrexisykeari]], is not limited to a single form; she favours the appearance of peackocks and peahens, sometimes disguising herself as mundanely as that, other times taking the form of a humanoid woman in extravagant clothing, and even occasionally assuming the form of a [[creation:true_creation:charon#Yamaraj]] in jest, but with the visage of a peacock rather than a crow. Her servants too were freely shaped by her desires.
 
 ===== Immortals ======
-==== Heratrexisykeari ====
-
+There is only one Charis [[creation:true_creation:charon#Immortal]], that being the founder, [[Hera]].
 
 ===== Mortals ======
-==== Antheraea ====
-The moth empress.
+==== Dea ====
+The Dea are pseudo-immortals sustained by [[Hera]]'s will, serving directly beneath her, and far more active than [[Hera]] herself. Their forms and personalities are all distinct, though they all allied.
+
+===== Eidolons =====
+While distinct from the other castes of Charis, Eidolons created from the stuff of [[planes:celestial]] are often employed in as messengers, warriors, or war-beasts in times of need.
+
+===== Significant Charis =====
+  * [[Antheraea]]
+  * [[Kepari]]
