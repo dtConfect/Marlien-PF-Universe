@@ -1,27 +1,3 @@
-1489623189	2.30.156.111	C	susda	dtconfect	created		1853
-1489623208	2.30.156.111	E	susda	dtconfect			-8
-1489623266	2.30.156.111	E	susda	dtconfect			0
-1489623302	2.30.156.111	E	susda	dtconfect			-7
-1490009184	86.169.37.244	E	volcano	dtconfect	[Marlien] 		2
-1490012015	86.169.37.244	E	naltera	dtconfect			842
-1490012079	86.169.37.244	E	naltera	dtconfect	[Moons] 		4
-1490012863	86.169.37.244	E	spire	dtconfect	[Water Cycle] 		1
-1490012946	86.169.37.244	E	spire	dtconfect	[Spires] 		21
-1490013103	86.169.37.244	E	naltera	dtconfect	[Naltera] 		48
-1490013276	86.169.37.244	C	circle_sea	dtconfect	created		189
-1490013558	86.169.37.244	C	twin_spires	dtconfect	created		427
-1490013910	86.169.37.244	E	planet	dtconfect	[Planet] 		344
-1490013933	86.169.37.244	E	planet	dtconfect			2
-1490014291	86.169.37.244	C	lufia	dtconfect	created		369
-1490017090	86.169.37.244	E	lufia	dtconfect			3618
-1490017622	86.169.37.244	E	xenology	dtconfect	[Unique Races] 		17
-1490018187	86.169.37.244	C	svailorn	dtconfect	created		1628
-1490035250	86.169.37.244	E	svailorn	dtconfect			-17
-1490036186	86.169.37.244	E	svailorn	dtconfect			509
-1490038427	86.169.37.244	E	xiexio	dtconfect	[Stats] 		0
-1490038433	86.169.37.244	E	svailorn	dtconfect			899
-1490038875	86.169.37.244	E	svailorn	dtconfect			588
-1490038908	86.169.37.244	E	svailorn	dtconfect	[Svailorn] 		-1
 1490102177	86.169.37.244	E	jinxi	dtconfect			1296
 1490102191	86.169.37.244	E	xiexio	dtconfect	[Racial Traits] 		-1139
 1490104003	86.169.37.244	E	xiexio	dtconfect			1450
@@ -43,3 +19,5 @@
 1490113252	86.169.37.244	E	xiexio	dtconfect	[Armour] 		1338
 1490113525	86.169.37.244	E	xiexio	dtconfect	[Armour] 		28
 1490198538	86.169.37.244	E	magefiend	dtconfect			141
+1490705030	46.16.213.65	E	creation:true_creation:charon	dtconfect	[Mortals] 		53
+1490705614	46.16.213.65	E	creation:true_creation:charon	dtconfect	[Immortals] 		104
