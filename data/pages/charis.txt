@@ -1,5 +1,5 @@
 ====== Charis ======
-Charis are an offshoot of the [[creation:true_creation:charon]] in the [[creation:creation]] [[creation:Marlien]], founded by [[Hera]], an ex-[[creation:true_creation:charon]] [[creation:true_creation:charon#Immortals|Immortal]]. Unlike the [[creation:true_creation:charon]], who may generally be considered [[alignment:True Neutral]] or [[alignment:Lawful Neutral]], the Charis are generally [[alignment:Chaotic Good]], or [[alignment:Neutral Good]]. Though their interference in [[creation:true_creation:primordial_elements#mortal]] affairs is infrequent, they are generally more direct, and always less secretive than the [[creation:true_creation:Charon]].
+Charis are an offshoot of the [[creation:true_creation:charon]] in the [[creation:creation]] [[creation:Marlien]], founded by [[Hera]], an ex-[[creation:true_creation:charon]] [[creation:true_creation:charon#Immortals|Immortal]]. Unlike the [[creation:true_creation:charon]], who may generally be considered [[alignment:True Neutral]] or [[alignment:Lawful Neutral]], the Charis are generally [[alignment:Neutral Good]]. Though their interference in [[creation:true_creation:primordial_elements#mortal]] affairs is infrequent, they are generally more direct, and always less secretive than the [[creation:true_creation:Charon]].
 
 The Charis reside in [[planes:celestial]] and have a strong affinity with [[creation:Marlien:Energy#Positive|Positive Energy]].
 
@@ -15,7 +15,7 @@ There is only one Charis [[creation:true_creation:charon#Immortal]] - that being
 
 ===== Mortals ======
 ==== Dea ====
-The Dea are pseudo-immortals sustained by [[Hera]]'s will, serving directly beneath her, and far more active than [[Hera]] herself. Their forms and personalities are all distinct, though they all allied in their general benevolence. The freedom with which they wield [[Hera]]'s power has lead them, historically, to be viewed as deities by many cultures and individuals.
+The Dea are pseudo-immortals sustained by [[Hera]]'s will, serving directly beneath her, and more active than [[Hera]] herself. Their forms and personalities are all distinct, though they are all allied in their general benevolence. The freedom with which they wield [[Hera]]'s power has lead them, historically, to be viewed as deities by many cultures and individuals, though by the [[year_zero]] they are little known and largely inactive.
 
   * [[Antheraea]]
   * [[Kepari]]
