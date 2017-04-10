@@ -1,0 +1,4 @@
+====== The Templar Protectorate of Arthale ======
+The Templar Protectorate of Arthale was the last of the three great nations to emerge from the collapse of [[:arthalean_empire]], founded by a religous coup at the capital city, [[:Helligiem]], and eventually claiming all of the old [[:arthalean_empire]]'s territories eastward of the [[:paraesi:Cloudcrest Mountains]].
+
+The Templar Protectorate of Arthale is ruled by the cardinal of their [[:solenist_academia|Solenist church]], and all its military affairs are conducted under the banner of the [[:solenist_academia:Temple]]; the [[:solenist_academia:Temple]] of the protectorate has only one [[:solenist_academia:temple:Grand Master]].

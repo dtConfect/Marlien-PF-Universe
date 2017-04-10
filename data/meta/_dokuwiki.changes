@@ -1,10 +1,3 @@
-1490827413	2.29.133.38	E	charis	dtconfect	[Dea] 		-1
-1490830136	2.29.133.38	E	kepari	dtconfect			224
-1490833388	2.29.133.38	E	brisbon	dtconfect			547
-1490833511	2.29.133.38	E	creation:true_creation:charon	dtconfect	[Mortals] 		16
-1490833520	2.29.133.38	E	charis	dtconfect	[Dea] 		-44
-1490834436	2.29.133.38	E	charis	dtconfect			914
-1490834446	2.29.133.38	E	charis	dtconfect	[Dea] 		-3
 1490834865	2.29.133.38	E	antheraea	dtconfect			373
 1490834897	2.29.133.38	E	antheraea	dtconfect			45
 1490835052	2.29.133.38	E	brisbon	dtconfect			153
@@ -25,3 +18,11 @@
 1491572148	46.16.213.65	C	forsaken_darohl	dtconfect	created		369
 1491573295	46.16.213.65	E	forsaken_darohl	dtconfect			67
 1491573346	46.16.213.65	E	forsaken_darohl	dtconfect			76
+1491783167	2.29.133.38	E	arthalean_empire	dtconfect			2
+1491783229	2.29.133.38	E	vangrund	dtconfect			34
+1491783592	2.29.133.38	C	templar_protectorate_of_arthale:templar_protectorate_of_arthale	dtconfect	created		689
+1491783642	2.29.133.38	E	arthalean_empire	dtconfect			-1
+1491783738	2.29.133.38	D	templar_protectorate_of_arthale:templar_protectorate_of_arthale	dtconfect	removed		-689
+1491783750	2.29.133.38	C	templar_protectorate_of_arthale	dtconfect	created		689
+1491783767	2.29.133.38	E	arthalean_empire	dtconfect			-36
+1491784048	2.29.133.38	C	paraesi:arthalean_wastes	dtconfect	created		360
