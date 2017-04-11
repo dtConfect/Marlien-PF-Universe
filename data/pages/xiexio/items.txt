@@ -2,14 +2,32 @@
 ===== Technology =====
 In the [[creation:creation]] [[creation:Marlien]] [[:Xiexio]] technology is based upon equal parts mechanics, [[creation:magic#arcane|arcane arts]], and electronics, depending heavily upon batteries charged with [[creation:magic#arcane]] energy for the operation of power-hungry devices such as [[:spacecraft]], weapons, and computers.
 
-Because of the presence of an [[creation:magic#arcane]] battery of some scale in most [[:Xiexo]] technologies, they can often be located or identified by a strong aura of [[creation:magic:evocation]]. Rarely - especially so in modern technology, [[creation:magic#arcane]] patterns may be embedded into devices to aid in there functionality, so certain pieces of equipment might also give off an aura appropriate for their function - a haptic-holo projector might have an aspect of [[creation:magic:illusion]], for example.
+Because of the presence of an [[creation:magic#arcane]] battery of some scale in most [[:Xiexio]] technologies, they can often be located or identified by a strong aura of [[creation:magic:evocation]]. Rarely - especially so in modern technology, [[creation:magic#arcane]] patterns may be embedded into devices to aid in there functionality, so certain pieces of equipment might also give off an aura appropriate for their function - a haptic-holo projector might have an aspect of [[creation:magic:illusion]], for example.
 
 ===== Listings =====
+==== Arcane Batteries ====
+Arcane Batteries are used to power certain [[:Xiexio]] technologies. They come in a variety of sizes and form factors. Some batteries are designed to transfer small quantities of power wirelessly to other [[:Xiexio]] devices in range, while others are designed with connection points for common modules, or a bundle of retractable wires with [[:jinxi]] heads for telekinetic manipulation.
+
+Arcane Batteries are charged by channelling [[creation:magic#arcane]] energies into them from spells of level 1 or higher. Each spell imbues the battery with charges equal to 10 times its level. [[:Xiexio]] items listed with a *Charge Capacity* of greater than *0* feature an *Integrated* battery and may be charged manually with spells, while those with *0* require a constant external power supply.
+
+A battery can only transfer up to a tenth of its power to a connected device per turn. It is therefore impossible to run an item requiring a constant external power supply off of a battery which has a capacity less than ten times its turn-by-turn consumption.
+
+^ Batteries ^ Charge Capacity ^ Example Use ^
+| Personal Powerpack, Small | 200 | Wirelessly power personal communications and convenience items. Short term use. |
+| Personal Powerpack, Medium | ??? | Wirelessly power personal communications and convenience items, charge light firearms. Mid term use. |
+| Personal Powerpack, Large | ??? | Wirelessly power personal communications and convenience items, charge firearms. Long term use. |
+| Personal Powerpack, Heavy Duty | ??? | Wirelessly power personal communications and convenience items, charge heavy firearms. Long term use. |
+| Integrated | Varies | Built into firearms and other small items which may by charged from another battery. |
+| Modular, Small | ??? | Connected to small personal transportation or household power grids. |
+| Modular, Medium | ??? | Connected to small vehicles or to household power grids. |
+| Modular, Large | ??? | Connected to vehicles and local power grids, often in clusters. |
+| Modular, Heavy Duty | ??? | Connected to large vehicles and power grids, sometimes in clusters. |
+
 ==== Weapons ====
 === Xiexio Shock Staff ===
 A [[http://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/quarterstaff/|Quarterstaff]] built to release a stunning jolt of arcane energy when it strikes an opponent. Functions as though it has the [[http://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/merciful/|Merciful]] magic weapon special ability, but without any bonus.
 
-As with any weapon not dependent upon telekinesis, a shock staff may be built with or without Jinxi.
+As with any weapon not dependent upon telekinesis, a shock staff may be built with or without [[:Jinxi]].
 
 ^ ^ Weight ^ Cost ^
 | Shock Staff | 6 lbs | 200 gp |
@@ -18,7 +36,7 @@ As with any weapon not dependent upon telekinesis, a shock staff may be built wi
 === Xiexio Martial Multilance ===
 The multilance is an outdated weapon designed to be wielded by a group of Xiexio in order to overwhelm the opposition with projectiles such that they cannot be easily caught with the same telekinesis used to throw them. It has sustained some use in the modern world as a tool for hunting cetain game, and has re-emerged as a weapon wielded by renegade Xiexio against aliens without Jinxi telekinesis.
 
-The weapon itself is a heavy, jinxi laced, spear which is designed to separate into three separate projectiles mid-flight. It may therefore be thrown as one projectile, or manually divided and thrown piece by piece.
+The weapon itself is a heavy, [[:jinxi]] laced, spear which is designed to separate into three separate projectiles mid-flight. It may therefore be thrown as one projectile, or manually divided and thrown piece by piece.
 
 ^     ^ Dmg ^ Type ^ Weight ^ Cost ^
 | Multilance Third | 3d6  | P | 4 lbs.  | 5 gp |
@@ -29,7 +47,7 @@ The weapon itself is a heavy, jinxi laced, spear which is designed to separate i
 === Xiexio Advanced Disruptor Rifle ===
 
 === Xiexio Advanced Disruptor Lance ===
-The disruptor lance is a weapon often attached to personal [[spacecraft]], and occasionally wielded as a heavy weapon, with one or more lances hovering over the shoulder of an individual. It fires a concentrated beam of arcane energy like that of a [[#Xeio Martial Disruptor Pistol|Disruptor Pistol]], but stronger.
+The disruptor lance is a weapon often attached to personal [[:spacecraft]], and occasionally wielded as a heavy weapon, with one or more lances hovering over the shoulder of an individual. It fires a concentrated beam of arcane energy like that of a [[#Xeio Martial Disruptor Pistol|Disruptor Pistol]], but stronger.
 
 ^ ^ Weight ^ Cost ^
 | Disruptor Lance | 60 lbs | 400 gp |
@@ -60,6 +78,7 @@ This allows for a special armour category, No Armours, which do not require prof
 ^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ 30 ft. ^ 20 ft. ^ ::: ^
 | Platecoat |
 | Platesuit |
+
 ==== Shields ====
 === Orbitals ===
 Orbitals are a form of hands-free physical shield designed to require as little manual guidance as possible. A creature capable of controlling [[:jinxi]] may cause a number of Orbitals equal to their Wisdom bonus (max 4) to orbit their body. Orbitals may be grasped and thrown, or thrown using telekinesis, but they are treated as an improvised weapon, dealing damage appropriate for the size (1 S, 1d2 M, etc.).
@@ -86,5 +105,12 @@ An orbital belt is a simple accessory typically worn around the waist or across 
 === Orbital Harness ===
 Sometimes called a Beetle Harness, because of its appearance when supporting a full compliment of heavy [[#Orbitals]], an orbital harness is usually designed to be worn over the torso, with slots down the back or spine which can accommodate up to four light or heavy [[#Orbitals]]. Sometimes a harness is built into the back of medium or heavy armour.
 
-==== Arcane Batteries ====
-Arcane Batteries are used to power certain [[:Xiexio]] technologies. They come in a variety of sizes and form factors. Some batteries are designed to transfer small quantities of power wirelessly to other [[:Xiexio]] devices in range, while others are designed with connection points for common modules, or a bundle of retractable wires with [[:jinxi]] heads for telekinetic manipulation.
+=== Battery Harness ===
+Battery harnesses are available for any personal battery and feature holsters for numerous weapons and other items to allow them to charge from a fitted battery while not in use.
+
+=== Comm Stone ===
+This smooth, palm-sized stones is used as a data and communications terminal by the [[:Xiexio]]. As long as it is within range of some part of a larger network of communications devices, and not blocked by any means, it can communicate with any other similar devices on the network. Features voice and image transmission, haptic projection. *Charge Capacity* 20. *Drain* 5 charges/day.
+
+
+
+
