@@ -8,7 +8,7 @@ Because of the presence of an [[creation:magic#arcane]] battery of some scale in
 ==== Arcane Batteries ====
 Arcane Batteries are used to power certain [[:Xiexio]] technologies. They come in a variety of sizes and form factors. Some batteries are designed to transfer small quantities of power wirelessly to other [[:Xiexio]] devices in range, while others are designed with connection points for common modules, or a bundle of retractable wires with [[:jinxi]] heads for telekinetic manipulation.
 
-Arcane Batteries are charged by channelling [[creation:magic#arcane]] energies into them from spells of level 1 or higher. Each spell imbues the battery with charges equal to 10 times its level. [[:Xiexio]] items listed with a *Charge Capacity* of greater than *0* feature an *Integrated* battery and may be charged manually with spells, while those with *0* require a constant external power supply.
+Arcane Batteries are charged by channelling [[creation:magic#arcane]] energies into them from spells of level 1 or higher. Each spell imbues the battery with charges equal to 10 times its level. [[:Xiexio]] items listed with a **Charge Capacity** of greater than **0** feature an **Integrated** battery and may be charged manually with spells, while those with **0** require a constant external power supply.
 
 A battery can only transfer up to a tenth of its power to a connected device per turn. It is therefore impossible to run an item requiring a constant external power supply off of a battery which has a capacity less than ten times its turn-by-turn consumption.
 
@@ -43,6 +43,9 @@ The weapon itself is a heavy, [[:jinxi]] laced, spear which is designed to separ
 | Multilance Whole | 1d8  | P | 12 lbs. | 12 gp |
 
 === Xiexio Martial Disruptor Pistol ===
+**Charge Capacity** 200
+**Drain** 20 charges/use
+Fires a concentrated beam of arcane energy as a *Ranged Touch Attack, 50 ft*, which may be focused as 2d6 points of nonlethal force, or 4d6 points of lethal force.
 
 === Xiexio Advanced Disruptor Rifle ===
 
