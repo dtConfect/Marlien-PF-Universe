@@ -2,6 +2,9 @@
 Xiexio (she-shö) is the abbreviated name of the Xienonxionin (She-non-shö-nin), also named Xeno or Zeno by the phonetic translation of their hieroglyphs by some [[:Naltera]] scholars.
 The Xienonxionin are a race of technologically advanced, four-armed humanoids uniquely native to [[:Thexingja]].
 
+====== Index ======
+  * [[:Xiexio:Items]]
+
 ===== Jinxi Telekinesis =====
 Whether by natural evolution, the product of genetic manipulation, or a deliberate mutation influenced by some outsider, Xienonxionin and some other creatures native to [[:Thexingja]] posses the innate ability to manipulate kinesis-sensitive materials such as [[:jinxi]] via telekinesis. As a result, many Xiexio technologies, tools, vehicles, etc. accommodate hands-free operation by integration of [[:jinxi]]. It is cheap enough on [[:Thexingja]] to add sufficient quantities of [[:jinxi]] to most small tools and arms, to produce jewelery and even clothing laced with the material. Many of the smaller [[:xiexio:vehicles|xiexio vehicles]], including one-man [[:spacecraft]] are built using sufficient quantities of [[:jinxi]] to allow telekinetic rearrangement of modules, and even piloting, though the Xiexio prefer to build a projected, haptic interface into important machines in case of circumstances which interfere with the use of telekinesis.
 
@@ -73,88 +76,6 @@ With training, a Xiexio may learn to increase the range of their [[#Jinxi Teleki
 
 === Heavy-lifter ===
 With training, a Xiexio may learn to control greater quantities of [[:Jinxi]], increasing the upper limit in each category of their [[:jinxi]] [[:jinxi#operation potential]] by 2 lbs.
-
-===== Xiexio Special Equipment =====
-==== Weapons ====
-=== Xiexio Shock Staff ===
-A [[http://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/quarterstaff/|Quarterstaff]] built to release a stunning jolt of arcane energy when it strikes an opponent. Functions as though it has the [[http://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/merciful/|Merciful]] magic weapon special ability, but without any bonus.
-
-As with any weapon not dependent upon telekinesis, a shock staff may be built with or without Jinxi.
-
-^ ^ Weight ^ Cost ^
-| Shock Staff | 6 lbs | 200 gp |
-| Shock Staff (No Jinxi) | 5 lbs | 195 gp | 
-
-=== Xiexio Martial Multilance ===
-The multilance is an outdated weapon designed to be wielded by a group of Xiexio in order to overwhelm the opposition with projectiles such that they cannot be easily caught with the same telekinesis used to throw them. It has sustained some use in the modern world as a tool for hunting cetain game, and has re-emerged as a weapon wielded by renegade Xiexio against aliens without Jinxi telekinesis.
-
-The weapon itself is a heavy, jinxi laced, spear which is designed to separate into three separate projectiles mid-flight. It may therefore be thrown as one projectile, or manually divided and thrown piece by piece.
-
-^     ^ Dmg ^ Type ^ Weight ^ Cost ^
-| Multilance Third | 3d6  | P | 4 lbs.  | 5 gp |
-| Multilance Whole | 1d8  | P | 12 lbs. | 12 gp |
-
-=== Xiexio Martial Disruptor Pistol ===
-
-=== Xiexio Advanced Disruptor Rifle ===
-
-=== Xiexio Advanced Disruptor Lance ===
-The disruptor lance is a weapon often attached to personal [[spacecraft]], and occasionally wielded as a heavy weapon, with one or more lances hovering over the shoulder of an individual. It fires a concentrated beam of arcane energy like that of a [[#Xeio Martial Disruptor Pistol|Disruptor Pistol]], but stronger.
-
-^ ^ Weight ^ Cost ^
-| Disruptor Lance | 60 lbs | 400 gp |
-| Disruptor Lance (No Jinxi) | 50 lbs | 350 gp |
-==== Armour ====
-=== Modular Armour ===
-Modular armour is embedded with [[:jinxi]] and composed of layered scales with multi-purpose links to keep it together when at rest. A Xiexio wearing this armour, or other creature capable of manipulating [[:jinxi]] via [[#Telekinesis]], gains a +2 bonus to their AC unless they are somehow denied their telekinetic ability, or Dexterity bonus to AC, or are caught unaware of the attack. Any medium or heavy armour may be made into modular armour; for the price increase, see the table of [[:jinxi#cost|jinxi cost]], based upon weight of the armour.
-
-=== Xiexio Fabrics ===
-The advanced technologies of the Xeixio allow for the production of lightweight, flexible, and yet durable materials, which provide some protection without restricting the movements of the wearer.
-
-This allows for a special armour category, No Armours, which do not require proficiency, or count as armour for monks or those with similar features.
-
-^ No Armours ^^^^^^^^^
-^ Armour ^ Cost ^ Armour/Shield Bonus ^ Maxmimum Dex Bonus ^ Armour Check Penalty ^ Arcane Spell Failure Chance ^ Speed ^^ Weight ^
-^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ 30 ft. ^ 20 ft. ^ ::: ^
-| Xipao Skinsuit | 100 gp | +1 | - | 0 | 0% | 30 ft. | 20 ft. | 5 lbs. |
-| Xipao Robes | 150 gp | +2 | +8 | 0 | 0% | 30 ft. | 20 ft. | 6 lbs. |
-
-^ Light Armours ^^^^^^^^^
-^ Armour ^ Cost ^ Armour/Shield Bonus ^ Maxmimum Dex Bonus ^ Armour Check Penalty ^ Arcane Spell Failure Chance ^ Speed ^^ Weight ^
-^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ 30 ft. ^ 20 ft. ^ ::: ^
-| Guardsuit | 150 gp | +3 | +8 | -1 | 5% | 30 ft. | 20 ft. | 10 lbs. |
-| Armoured Xipao Coat | 200 gp | +4 | +6 | -1 | 10% | 30 ft. | 20 ft. | 15 lbs. |
-
-^ Medium Armours ^^^^^^^^^
-^ Armour ^ Cost ^ Armour/Shield Bonus ^ Maxmimum Dex Bonus ^ Armour Check Penalty ^ Arcane Spell Failure Chance ^ Speed ^^ Weight ^
-^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ 30 ft. ^ 20 ft. ^ ::: ^
-| Platecoat |
-| Platesuit |
-==== Shields ====
-=== Orbitals ===
-Orbitals are a form of hands-free physical shield designed to require as little manual guidance as possible. A creature capable of controlling [[:jinxi]] may cause a number of Orbitals equal to their Wisdom bonus (max 4) to orbit their body. Orbitals may be grasped and thrown, or thrown using telekinesis, but they are treated as an improvised weapon, dealing damage appropriate for the size (1 S, 1d2 M, etc.).
-
-Actions such as deploying orbitals, halting or resuming their orbit, require a move action, but multiple may be affected at once.
-
-A creature wielding orbitals gains AC and takes an obscuring penalty to sight-based perception checks and all ranged or melee attacks per active orbital.
-
-== Bladed Orbitals ==
-  * 1d2 S, 1d3 M
-  * P
-  * monk
-Bladed orbitals are a type of light orbital favoured by Xiexio monks, modified to serve as viable weapons. They are not treated as improvised weapons when thrown and may be used for melee attacks without provoking attacks of opportunity.
-
-^ Orbitals ^ Dmg (M) ^ Type ^ AC Bonus ^ Obscuring Penalty ^ Weight ^ Cost ^
-| Light    | 1d2 | B | +0.5     | -0.5              | 3 lbs.| 6 gp |
-| Heavy    | 1d2 | B | +1       | -1                | 6 lbs.| 14 gp |
-| Bladed, Light | 1d3 | P | +0.5| -0.5              | 2 lbs.| 10 gp |
-
-==== Other ====
-=== Orbital Belt ===
-An orbital belt is a simple accessory typically worn around the waist or across the torso, with slots to accomodate up to four light, or two heavy [[#Orbitals]].
-
-=== Orbital Harness ===
-Sometimes called a Beetle Harness, because of its appearance when supporting a full compliment of heavy [[#Orbitals]], an orbital harness is usually designed to be worn over the torso, with slots down the back or spine which can accommodate up to four light or heavy [[#Orbitals]]. Sometimes a harness is built into the back of medium or heavy armour.
 
 
 
