@@ -26,6 +26,7 @@ The [[#Materium]] and [[#Immaterium]] overlap, and are separated by [[Ethereal]]
   * [[Astral]]
   * [[Positive]]
   * [[Negative]]
+  * [[Nod]]
 
 === Other ===
   * [[Ethereal]]
