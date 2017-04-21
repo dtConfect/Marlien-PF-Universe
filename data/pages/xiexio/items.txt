@@ -14,14 +14,31 @@ A battery can only transfer up to a tenth of its power to a connected device per
 
 ^ Batteries ^ Charge Capacity ^ Example Use ^
 | Personal Powerpack, Small | 200 | Wirelessly power personal communications and convenience items. Short term use. |
-| Personal Powerpack, Medium | ??? | Wirelessly power personal communications and convenience items, charge light firearms. Mid term use. |
-| Personal Powerpack, Large | ??? | Wirelessly power personal communications and convenience items, charge firearms. Long term use. |
-| Personal Powerpack, Heavy Duty | ??? | Wirelessly power personal communications and convenience items, charge heavy firearms. Long term use. |
+| Personal Powerpack, Medium | 1,000 | Wirelessly power personal communications and convenience items, charge light firearms. Mid term use. |
+| Personal Powerpack, Large | 2,000 | Wirelessly power personal communications and convenience items, charge firearms. Long term use. |
+| Personal Powerpack, Heavy Duty | 10,000 | Wirelessly power personal communications and convenience items, charge heavy firearms. Long term use. |
 | Integrated | Varies | Built into firearms and other small items which may by charged from another battery. |
-| Modular, Small | ??? | Connected to small personal transportation or household power grids. |
-| Modular, Medium | ??? | Connected to small vehicles or to household power grids. |
-| Modular, Large | ??? | Connected to vehicles and local power grids, often in clusters. |
-| Modular, Heavy Duty | ??? | Connected to large vehicles and power grids, sometimes in clusters. |
+| Modular, Small | 200,000 | Connected to small personal transportation or household power grids. |
+| Modular, Medium | 500,0000 | Connected to small vehicles or to household power grids. |
+| Modular, Large | 1,000,000 | Connected to vehicles and local power grids, often in clusters. |
+| Modular, Heavy Duty | 2,000,000 | Connected to large vehicles and power grids, sometimes in clusters. |
+
+=== Manual Discharge ===
+Any Arcane Battery may be manually discharged. **Modular** batteries may be rigged to discharge after a delay of up to ten minutes, though a **Knowledge (Engineering)** check **DC 20** (+15 unless specifically familiar with similar technology) is required, or the desired delay is decreased by 1d10 rounds per score less than the DC. The effect of the discharge is determined by the charge presently held in the battery.
+
+^ Held Charge ^ Effect ^
+| < 100 | No Effect |
+| >= 100 | |
+| >= 200 | |
+| >= 500 | |
+| >= 1,000 | |
+| >= 1,500 | |
+| >= 3,000 | |
+| >= 5,000 | |
+| >= 10,000 | |
+| >= 100,000 | |
+| >= 1000,000 | |
+
 
 ==== Weapons ====
 === Xiexio Shock Staff ===
@@ -39,8 +56,8 @@ The multilance is an outdated weapon designed to be wielded by a group of Xiexio
 The weapon itself is a heavy, [[:jinxi]] laced, spear which is designed to separate into three separate projectiles mid-flight. It may therefore be thrown as one projectile, or manually divided and thrown piece by piece.
 
 ^     ^ Dmg ^ Type ^ Weight ^ Cost ^
-| Multilance Third | 3d6  | P | 4 lbs.  | 5 gp |
-| Multilance Whole | 1d8  | P | 12 lbs. | 12 gp |
+| Multilance Third |  1d8  | P | 4 lbs.  | 5 gp |
+| Multilance Whole | 3d6  | P | 12 lbs. | 12 gp |
 
 === Xiexio Martial Disruptor Pistol ===
 **Charge Capacity** 200
