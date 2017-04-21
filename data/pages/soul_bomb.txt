@@ -1,4 +1,4 @@
 ====== Soul Bomb ======
 A Soul Bomb is a type of arcane weapon which harnesses the [[creation:true_creation:primordial_elements#mana]] unleashed by [[creation:true_creation:soul_destruction]] or [[creation:true_creation:soul_fission]] to create an enormous explosion, sometimes affecting a chain reaction. Such weapons can be tuned to specifically destroy the [[creation:true_creation:primordial_elements#Trinity|vessels]] of [[creation:true_creation:primordial_elements#atman]], leaving most other matter intact and minimally contaminated, but they are condemned by the [[creation:true_creation:charon]] regardless of how targeted or tactically deployed they may be.
 
-The invention and utilisation of Soul Bombs by the [[:graadien]] civilisation against that of [[:darohl]], which lead to that war being named the [[:arcane_holocaust]], lead to the purging of [[:graadien]] by the [[creation:true_creation:charon]].
+The invention and utilisation of Soul Bombs by the [[:graadien]] civilisation during their war with [[:darohl]], which lead to that war being named the [[:arcane_holocaust]], lead to the purging of [[:graadien]] by the [[creation:true_creation:charon]].
