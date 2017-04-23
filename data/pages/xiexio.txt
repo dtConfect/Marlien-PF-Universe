@@ -44,10 +44,14 @@ Composed of the leaders of every nation on [[Thexingja]], including those who ch
 
 Besides the national leaders, selected by whatever the preferred means are of each, the High Council employs a large number of clerks and career politicians.
 
-===== Male Names =====
+===== Naming =====
+==== Family Names ====
+Ahn, Ich, Ren, Taika
+
+==== Male Names ====
 Anlo, Anfen, Ban, Bofen, Haiso, Jailan, Ji, Juwan, Joa, Kaia, Li, Lofa, Minam, Silu, Taifen, Taiwen, Xin, Xiofen, Xiowen
 
-===== Female Names =====
+==== Female Names ====
 Aila, Ain, Aing, Aixa, Boxi, Chia, Fei, Gia, Jailan, Jaixia, Jinxi, Juchu, Kia, Lai, Li, Lina, Lulu, Minam, Nala, Nana, Nien, Nioa, Xei, Xiedoa, Xiuyin
 
 ===== Stats =====
