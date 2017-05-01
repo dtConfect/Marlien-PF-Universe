@@ -4,6 +4,7 @@ The Xienonxionin are a race of technologically advanced, four-armed humanoids un
 
 ====== Index ======
   * [[:Xiexio:Items]]
+  * [[:Xiexio:Vehicles]]
   * [[:Xiexio:mythology]]
 ===== Jinxi Telekinesis =====
 Whether by natural evolution, the product of genetic manipulation, or a deliberate mutation influenced by some outsider, Xienonxionin and some other creatures native to [[:Thexingja]] posses the innate ability to manipulate kinesis-sensitive materials such as [[:jinxi]] via telekinesis. As a result, many Xiexio technologies, tools, vehicles, etc. accommodate hands-free operation by integration of [[:jinxi]]. It is cheap enough on [[:Thexingja]] to add sufficient quantities of [[:jinxi]] to most small tools and arms, to produce jewelery and even clothing laced with the material. Many of the smaller [[:xiexio:vehicles|xiexio vehicles]], including one-man [[:spacecraft]] are built using sufficient quantities of [[:jinxi]] to allow telekinetic rearrangement of modules, and even piloting, though the Xiexio prefer to build a projected, haptic interface into important machines in case of circumstances which interfere with the use of telekinesis.
