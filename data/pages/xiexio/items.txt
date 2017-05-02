@@ -55,9 +55,9 @@ The multilance is an outdated weapon designed to be wielded by a group of Xiexio
 
 The weapon itself is a heavy, [[:jinxi]] laced, spear which is designed to separate into three separate projectiles mid-flight. It may therefore be thrown as one projectile, or manually divided and thrown piece by piece.
 
-^     ^ Dmg ^ Type ^ Weight ^ Cost ^
-| Multilance Third |  1d8  | P | 4 lbs.  | 5 gp |
-| Multilance Whole | 3d6  | P | 12 lbs. | 12 gp |
+^     ^ Dmg ^ Type ^ Range ^ Weight ^ Cost ^
+| Multilance Third |  1d8  | P | 30 ft. | 4 lbs. | 5 gp |
+| Multilance Whole | 2d8  | P | 30 ft. | 12 lbs. | 12 gp |
 
 === Xiexio Martial Disruptor Pistol ===
 **Charge Capacity** 200
@@ -75,6 +75,8 @@ The disruptor lance is a weapon often attached to personal [[:spacecraft]], and 
 ==== Armour ====
 === Modular Armour ===
 Modular armour is embedded with [[:jinxi]] and composed of layered scales with multi-purpose links to keep it together when at rest. A Xiexio wearing this armour, or other creature capable of manipulating [[:jinxi]] via [[#Telekinesis]], gains a +2 bonus to their AC unless they are somehow denied their telekinetic ability, or Dexterity bonus to AC, or are caught unaware of the attack. Any medium or heavy armour may be made into modular armour; for the price increase, see the table of [[:jinxi#cost|jinxi cost]], based upon weight of the armour.
+
+For the purposes of calculating the user's encumbrance against their potential, assume they must manipulate enough [[:jinxi]] to support half the armour's weight in order to gain this benefit.
 
 === Xiexio Fabrics ===
 The advanced technologies of the Xeixio allow for the production of lightweight, flexible, and yet durable materials, which provide some protection without restricting the movements of the wearer.
