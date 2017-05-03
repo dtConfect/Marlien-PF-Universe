@@ -59,22 +59,24 @@ The weapon itself is a heavy, [[:jinxi]] laced, spear which is designed to separ
 | Multilance Third |  1d8  | P | 30 ft. | 4 lbs. | 5 gp |
 | Multilance Whole | 2d8  | P | 30 ft. | 12 lbs. | 12 gp |
 
-=== Xiexio Martial Disruptor Pistol ===
-**Charge Capacity** 200
-**Drain** 20 charges/use
-Fires a concentrated beam of arcane energy as a **Ranged Touch Attack, 20 ft. range increment, up to 200 ft.**, which may be focused as 2d6 points of nonlethal force, or 4d6 points of lethal force.
-
-^ ^ Dmg ^ Type ^ Range ^ Max ^ Weight ^ Cost ^
-| Xiexio Martial Disruptor Pistol | 2d6 nonlethal, or 4d6 lethal | Force | 20 ft. | 200 ft. | | |
-
-=== Xiexio Advanced Disruptor Rifle ===
-
-=== Xiexio Advanced Disruptor Lance ===
-The disruptor lance is a weapon often attached to personal [[:spacecraft]], and occasionally wielded as a heavy weapon, with one or more lances hovering over the shoulder of an individual. It fires a concentrated beam of arcane energy like that of a [[#Xeio Martial Disruptor Pistol|Disruptor Pistol]], but stronger.
+=== Xiexio Firearms ===
+^ ^ Dmg ^ Type ^ Charge Capacity ^ Charges/Use ^ Range ^ Max ^ Weight ^ Cost ^
+| Xiexio Martial Disruptor Pistol | 2d6 nonlethal, or 4d6 lethal | Force | 200 | 20 | 20 ft. | 200 ft. | | |
+| Xiexio Advanced Disruptor Rifle | 3d6 nonelethal or 6d6 lethal | Force | | | 100 ft. | 1,000 ft. | | |
+| Xiexio Advanced Disruptor Lance | 8d8 lethal | Force | | | 500 ft. | 5,000 ft. | | |
 
 ^ ^ Weight ^ Cost ^
 | Disruptor Lance | 60 lbs | 400 gp |
 | Disruptor Lance (No Jinxi) | 50 lbs | 350 gp |
+
+== Xiexio Martial Disruptor Pistol ==
+Fires a concentrated beam of arcane energy which may be focused as nonlethal or lethal force.
+
+== Xiexio Advanced Disruptor Rifle ==
+
+== Xiexio Advanced Disruptor Lance ==
+The disruptor lance is a weapon often attached to personal [[:spacecraft]], and occasionally wielded as a heavy weapon, with one or more lances hovering over the shoulder of an individual. It fires a concentrated beam of arcane energy like that of a [[#Xeio Martial Disruptor Pistol|Disruptor Pistol]], but stronger.
+
 ==== Armour ====
 === Modular Armour ===
 Modular armour is embedded with [[:jinxi]] and composed of layered scales with multi-purpose links to keep it together when at rest. A Xiexio wearing this armour, or other creature capable of manipulating [[:jinxi]] via [[#Telekinesis]], gains a +2 bonus to their AC unless they are somehow denied their telekinetic ability, or Dexterity bonus to AC, or are caught unaware of the attack. Any medium or heavy armour may be made into modular armour; for the price increase, see the table of [[:jinxi#cost|jinxi cost]], based upon weight of the armour.
