@@ -28,16 +28,20 @@ Any Arcane Battery may be manually discharged. **Modular** batteries may be rigg
 
 ^ Held Charge ^ Effect ^
 | < 100 | No Effect |
-| >= 100 | |
-| >= 200 | |
-| >= 500 | |
-| >= 1,000 | |
-| >= 1,500 | |
-| >= 3,000 | |
-| >= 5,000 | |
-| >= 10,000 | |
-| >= 100,000 | |
-| >= 1000,000 | |
+| >= 100 | As [[http://www.d20pfsrd.com/magic/all-spells/f/flare-burst/|Flare Burst]], CL 1, DC 10, 5ft radius. |
+| >= 200 | As [[http://www.d20pfsrd.com/magic/all-spells/f/flare-burst/|Flare Burst]], CL 1, DC 12, 10ft radius. |
+| >= 500 | As [[http://www.d20pfsrd.com/magic/all-spells/f/flare-burst/|Flare Burst]], CL 1, DC 14, 10ft radius. |
+| >= 1,000 | As [[http://www.d20pfsrd.com/magic/all-spells/f/flare-burst/|Flare Burst]], CL 1, DC 16, 10ft radius. |
+| >= 1,500 | As [[http://www.d20pfsrd.com/magic/all-spells/f/fireball/|Fireball]], CL 1, DC 14, 5ft radius |
+| >= 3,000 | As [[http://www.d20pfsrd.com/magic/all-spells/f/fireball/|Fireball]], CL 2, DC 16, 5ft radius |
+| >= 6,000 | As [[http://www.d20pfsrd.com/magic/all-spells/f/fireball/|Fireball]], CL 3, DC 18, 10ft radius |
+| >= 12,000 | As [[http://www.d20pfsrd.com/magic/all-spells/f/fireball/|Fireball]], CL 4, DC 20, 10ft radius |
+| >= 25,000 | As [[http://www.d20pfsrd.com/magic/all-spells/f/fireball/|Fireball]], CL 6, DC 22, 20ft radius |
+| >= 50,000 | As [[http://www.d20pfsrd.com/magic/all-spells/f/fireball/|Fireball]], CL 8, DC 24, 20ft radius |
+| >= 100,000 | As [[http://www.d20pfsrd.com/magic/all-spells/s/stormbolts/|Stormbolts]], CL 10, DC 30, 30ft radius |
+| >= 500,000 | As [[http://www.d20pfsrd.com/magic/all-spells/s/stormbolts/|Stormbolts]], CL 15, DC 30, 30ft radius |
+| >= 1,000,000 | As [[http://www.d20pfsrd.com/magic/3rd-party-spells/ascension-games/entropic-storm/|Entropic Storm]], CL 20, DC 40, 60ft radius |
+| >= 2,000,000 | As [[http://www.d20pfsrd.com/magic/3rd-party-spells/ascension-games/entropic-storm/|Entropic Storm]], CL 40, DC 40, 120ft radius |
 
 
 ==== Weapons ====
@@ -65,17 +69,14 @@ The weapon itself is a heavy, [[:jinxi]] laced, spear which is designed to separ
 | Xiexio Advanced Disruptor Rifle | 3d6 nonelethal or 6d6 lethal | Force | 600 | 30 | 100 ft. | 1,000 ft. | | |
 | Xiexio Advanced Disruptor Lance | 8d8 lethal | Force | 600 | 60 | 500 ft. | 5,000 ft. | | |
 
-^ ^ Weight ^ Cost ^
-| Disruptor Lance | 60 lbs | 400 gp |
-| Disruptor Lance (No Jinxi) | 50 lbs | 350 gp |
-
 == Xiexio Martial Disruptor Pistol ==
 Fires a concentrated beam of arcane energy which may be focused as nonlethal or lethal force.
 
 == Xiexio Advanced Disruptor Rifle ==
+The disruptor rifle boasts a larger effective range and greater firepower than the disruptor pistol, but requires two hands to wield.
 
 == Xiexio Advanced Disruptor Lance ==
-The disruptor lance is a weapon often attached to personal [[:spacecraft]], and occasionally wielded as a heavy weapon, with one or more lances hovering over the shoulder of an individual. It fires a concentrated beam of arcane energy like that of a [[#Xeio Martial Disruptor Pistol|Disruptor Pistol]], but stronger.
+The disruptor lance is a weapon often attached to personal [[:spacecraft]], and occasionally wielded as a heavy weapon, with one or more lances hovering over the shoulder of an individual. It fires a concentrated beam of arcane energy like that of a standard pistol or rifle, but much stronger.
 
 ==== Armour ====
 === Modular Armour ===
