@@ -1,0 +1,145 @@
+a:6:{s:2:"id";s:12:"xiexio:items";s:6:"prefix";s:944:"====== Xiexio Equipment ======
+===== Technology =====
+In the [[creation:creation]] [[creation:Marlien]] [[:Xiexio]] technology is based upon equal parts mechanics, [[creation:magic#arcane|arcane arts]], and electronics, depending heavily upon batteries charged with [[creation:magic#arcane]] energy for the operation of power-hungry devices such as [[:spacecraft]], weapons, and computers.
+
+Because of the presence of an [[creation:magic#arcane]] battery of some scale in most [[:Xiexio]] technologies, they can often be located or identified by a strong aura of [[creation:magic:evocation]]. Rarely - especially so in modern technology, [[creation:magic#arcane]] patterns may be embedded into devices to aid in there functionality, so certain pieces of equipment might also give off an aura appropriate for their function - a haptic-holo projector might have an aspect of [[creation:magic:illusion]], for example.
+
+===== Listings =====
+";s:4:"text";s:4408:"==== Arcane Batteries ====
+Arcane Batteries are used to power certain [[:Xiexio]] technologies. They come in a variety of sizes and form factors. Some batteries are designed to transfer small quantities of power wirelessly to other [[:Xiexio]] devices in range, while others are designed with connection points for common modules, or a bundle of retractable wires with [[:jinxi]] heads for telekinetic manipulation.
+
+Arcane Batteries are charged by channelling [[creation:magic#arcane]] energies into them from spells of level 1 or higher. Each spell imbues the battery with charges equal to 10 times its level. [[:Xiexio]] items listed with a **Charge Capacity** of greater than **0** feature an **Integrated** battery and may be charged manually with spells, while those with **0** require a constant external power supply.
+
+A battery can only transfer up to a tenth of its power to a connected device per turn. It is therefore impossible to run an item requiring a constant external power supply off of a battery which has a capacity less than ten times its turn-by-turn consumption.
+
+^ Batteries ^ Charge Capacity ^ Example Use ^
+| Personal Powerpack, Small | 200 | Wirelessly power personal communications and convenience items. Short term use. |
+| Personal Powerpack, Medium | 1,000 | Wirelessly power personal communications and convenience items, charge light firearms. Mid term use. |
+| Personal Powerpack, Large | 2,000 | Wirelessly power personal communications and convenience items, charge firearms. Long term use. |
+| Personal Powerpack, Heavy Duty | 6,000 | Wirelessly power personal communications and convenience items, charge heavy firearms. Long term use. |
+| Integrated | Varies | Built into firearms and other small items which may by charged from another battery. |
+| Modular, Small | 200,000 | Connected to small personal transportation or household power grids. |
+| Modular, Medium | 500,0000 | Connected to small vehicles or to household power grids. |
+| Modular, Large | 1,000,000 | Connected to vehicles and local power grids, often in clusters. |
+| Modular, Heavy Duty | 2,000,000 | Connected to large vehicles and power grids, sometimes in clusters. |
+
+=== Manual Discharge ===
+Any Arcane Battery may be manually discharged. **Modular** batteries may be rigged to discharge after a delay of up to ten minutes, though a **Knowledge (Engineering)** check **DC 20** (+15 unless specifically familiar with similar technology) is required, or the desired delay is decreased by 1d10 rounds per score less than the DC. The effect of the discharge is determined by the charge presently held in the battery.
+
+^ Held Charge ^ Effect ^ Battery Destroyed? ^
+| < 100 | No Effect | No |
+| >= 100 | As [[http://www.d20pfsrd.com/magic/all-spells/f/flare-burst/|Flare Burst]], CL 1, DC 10, 5ft radius. | No |
+| >= 200 | As [[http://www.d20pfsrd.com/magic/all-spells/f/flare-burst/|Flare Burst]], CL 1, DC 12, 10ft radius. | No |
+| >= 500 | As [[http://www.d20pfsrd.com/magic/all-spells/f/flare-burst/|Flare Burst]], CL 1, DC 14, 10ft radius. | No |
+| >= 1,000 | As [[http://www.d20pfsrd.com/magic/all-spells/f/flare-burst/|Flare Burst]], CL 1, DC 16, 10ft radius. | 
+| >= 1,500 | As [[http://www.d20pfsrd.com/magic/all-spells/f/fireball/|Fireball]], CL 1, DC 14, 5ft radius |
+| >= 3,000 | As [[http://www.d20pfsrd.com/magic/all-spells/f/fireball/|Fireball]], CL 2, DC 16, 5ft radius |
+| >= 6,000 | As [[http://www.d20pfsrd.com/magic/all-spells/f/fireball/|Fireball]], CL 3, DC 18, 10ft radius |
+| >= 12,000 | As [[http://www.d20pfsrd.com/magic/all-spells/f/fireball/|Fireball]], CL 4, DC 20, 10ft radius |
+| >= 25,000 | As [[http://www.d20pfsrd.com/magic/all-spells/f/fireball/|Fireball]], CL 6, DC 22, 20ft radius |
+| >= 50,000 | As [[http://www.d20pfsrd.com/magic/all-spells/f/fireball/|Fireball]], CL 8, DC 24, 20ft radius |
+| >= 100,000 | As [[http://www.d20pfsrd.com/magic/all-spells/s/stormbolts/|Stormbolts]], CL 10, DC 30, 30ft radius |
+| >= 500,000 | As [[http://www.d20pfsrd.com/magic/all-spells/s/stormbolts/|Stormbolts]], CL 15, DC 30, 30ft radius |
+| >= 1,000,000 | As [[http://www.d20pfsrd.com/magic/3rd-party-spells/ascension-games/entropic-storm/|Entropic Storm]], CL 20, DC 40, 60ft radius |
+| >= 2,000,000 | As [[http://www.d20pfsrd.com/magic/3rd-party-spells/ascension-games/entropic-storm/|Entropic Storm]], CL 40, DC 40, 120ft radius |
+
+";s:6:"suffix";s:7242:"
+==== Weapons ====
+=== Xiexio Shock Staff ===
+A [[http://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/quarterstaff/|Quarterstaff]] built to release a stunning jolt of arcane energy when it strikes an opponent. Functions as though it has the [[http://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/merciful/|Merciful]] magic weapon special ability, but without any bonus.
+
+As with any weapon not dependent upon telekinesis, a shock staff may be built with or without [[:Jinxi]].
+
+^ ^ Weight ^ Cost ^
+| Shock Staff | 6 lbs | 200 gp |
+| Shock Staff (No Jinxi) | 5 lbs | 195 gp | 
+
+=== Xiexio Martial Multilance ===
+The multilance is an outdated weapon designed to be wielded by a group of Xiexio in order to overwhelm the opposition with projectiles such that they cannot be easily caught with the same telekinesis used to throw them. It has sustained some use in the modern world as a tool for hunting cetain game, and has re-emerged as a weapon wielded by renegade Xiexio against aliens without Jinxi telekinesis.
+
+The weapon itself is a heavy, [[:jinxi]] laced, spear which is designed to separate into three separate projectiles mid-flight. It may therefore be thrown as one projectile, or manually divided and thrown piece by piece.
+
+^     ^ Dmg ^ Type ^ Range ^ Weight ^ Cost ^
+| Multilance Third |  1d8  | P | 30 ft. | 4 lbs. | 5 gp |
+| Multilance Whole | 2d8  | P | 30 ft. | 12 lbs. | 12 gp |
+
+=== Xiexio Firearms ===
+^ ^ Dmg ^ Type ^ Charge Capacity ^ Charges/Use ^ Range ^ Max ^ Weight ^ Cost ^
+| Xiexio Martial Disruptor Pistol | 2d6 nonlethal, or 4d6 lethal | Force | 200 | 20 | 20 ft. | 200 ft. | | |
+| Xiexio Advanced Disruptor Rifle | 3d6 nonelethal or 6d6 lethal | Force | 600 | 30 | 100 ft. | 1,000 ft. | | |
+| Xiexio Advanced Disruptor Lance | 8d8 lethal | Force | 600 | 60 | 500 ft. | 5,000 ft. | | |
+
+== Xiexio Martial Disruptor Pistol ==
+Fires a concentrated beam of arcane energy which may be focused as nonlethal or lethal force.
+
+== Xiexio Advanced Disruptor Rifle ==
+The disruptor rifle boasts a larger effective range and greater firepower than the disruptor pistol, but requires two hands to wield.
+
+== Xiexio Advanced Disruptor Lance ==
+The disruptor lance is a weapon often attached to personal [[:spacecraft]], and occasionally wielded as a heavy weapon, with one or more lances hovering over the shoulder of an individual. It fires a concentrated beam of arcane energy like that of a standard pistol or rifle, but much stronger.
+
+==== Armour ====
+=== Modular Armour ===
+Modular armour is embedded with [[:jinxi]] and composed of layered scales with multi-purpose links to keep it together when at rest. A Xiexio wearing this armour, or other creature capable of manipulating [[:jinxi]] via [[#Telekinesis]], gains a +2 bonus to their AC unless they are somehow denied their telekinetic ability, or Dexterity bonus to AC, or are caught unaware of the attack. Any medium or heavy armour may be made into modular armour; for the price increase, see the table of [[:jinxi#cost|jinxi cost]], based upon weight of the armour.
+
+For the purposes of calculating the user's encumbrance against their potential, assume they must manipulate enough [[:jinxi]] to support half the armour's weight in order to gain this benefit.
+
+=== Xiexio Fabrics ===
+The advanced technologies of the Xeixio allow for the production of lightweight, flexible, and yet durable materials, which provide some protection without restricting the movements of the wearer.
+
+This allows for a special armour category, No Armours, which do not require proficiency, or count as armour for monks or those with similar features.
+
+^ No Armours ^^^^^^^^^
+^ Armour ^ Cost ^ Armour/Shield Bonus ^ Maxmimum Dex Bonus ^ Armour Check Penalty ^ Arcane Spell Failure Chance ^ Speed ^^ Weight ^
+^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ 30 ft. ^ 20 ft. ^ ::: ^
+| Xipao Skinsuit | 100 gp | +1 | - | 0 | 0% | 30 ft. | 20 ft. | 5 lbs. |
+| Xipao Robes | 150 gp | +2 | +8 | 0 | 0% | 30 ft. | 20 ft. | 6 lbs. |
+
+^ Light Armours ^^^^^^^^^
+^ Armour ^ Cost ^ Armour/Shield Bonus ^ Maxmimum Dex Bonus ^ Armour Check Penalty ^ Arcane Spell Failure Chance ^ Speed ^^ Weight ^
+^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ 30 ft. ^ 20 ft. ^ ::: ^
+| Guardsuit | 150 gp | +3 | +8 | -1 | 5% | 30 ft. | 20 ft. | 10 lbs. |
+| Armoured Xipao Coat | 200 gp | +4 | +6 | -1 | 10% | 30 ft. | 20 ft. | 15 lbs. |
+
+^ Medium Armours ^^^^^^^^^
+^ Armour ^ Cost ^ Armour/Shield Bonus ^ Maxmimum Dex Bonus ^ Armour Check Penalty ^ Arcane Spell Failure Chance ^ Speed ^^ Weight ^
+^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ ::: ^ 30 ft. ^ 20 ft. ^ ::: ^
+| Platecoat |
+| Platesuit |
+
+==== Shields ====
+=== Orbitals ===
+Orbitals are a form of hands-free physical shield designed to require as little manual guidance as possible. A creature capable of controlling [[:jinxi]] may cause a number of Orbitals equal to their Wisdom bonus (max 4) to orbit their body. Orbitals may be grasped and thrown, or thrown using telekinesis, but they are treated as an improvised weapon, dealing damage appropriate for the size (1 S, 1d2 M, etc.).
+
+Actions such as deploying orbitals, halting or resuming their orbit, require a move action, but multiple may be affected at once.
+
+A creature wielding orbitals gains AC and takes an obscuring penalty to sight-based perception checks and all ranged or melee attacks per active orbital.
+
+== Bladed Orbitals ==
+  * 1d2 S, 1d3 M
+  * P
+  * monk
+Bladed orbitals are a type of light orbital favoured by Xiexio monks, modified to serve as viable weapons. They are not treated as improvised weapons when thrown and may be used for melee attacks without provoking attacks of opportunity.
+
+^ Orbitals ^ Dmg (M) ^ Type ^ AC Bonus ^ Obscuring Penalty ^ Weight ^ Cost ^
+| Light    | 1d2 | B | +0.5     | -0.5              | 3 lbs.| 6 gp |
+| Heavy    | 1d2 | B | +1       | -1                | 6 lbs.| 14 gp |
+| Bladed, Light | 1d3 | P | +0.5| -0.5              | 2 lbs.| 10 gp |
+
+==== Other ====
+=== Orbital Belt ===
+An orbital belt is a simple accessory typically worn around the waist or across the torso, with slots to accomodate up to four light, or two heavy [[#Orbitals]].
+
+=== Orbital Harness ===
+Sometimes called a Beetle Harness, because of its appearance when supporting a full compliment of heavy [[#Orbitals]], an orbital harness is usually designed to be worn over the torso, with slots down the back or spine which can accommodate up to four light or heavy [[#Orbitals]]. Sometimes a harness is built into the back of medium or heavy armour.
+
+=== Battery Harness ===
+Battery harnesses are available for any personal battery and feature holsters for numerous weapons and other items to allow them to charge from a fitted battery while not in use.
+
+=== Comm Stone ===
+This smooth, palm-sized stones is used as a data and communications terminal by the [[:Xiexio]]. As long as it is within range of some part of a larger network of communications devices, and not blocked by any means, it can communicate with any other similar devices on the network. Features voice and image transmission, haptic projection. *Charge Capacity* 20. *Drain* 5 charges/day.
+
+
+
+
+";s:4:"date";i:1494122126;s:6:"client";s:9:"dtconfect";}
