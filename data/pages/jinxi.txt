@@ -32,11 +32,11 @@ The ability of Jinxi to move when constrained by other materials is dependent up
 Two such capable creatures may combine their capacities directly for the purposes of lifting heavier loads, though they may not be able to coordinate complex or quick actions well, especially if they are not well acquainted or similarly trained.
 
 === Table: Jinxi Lifting Capacities ===
-^ Quality ^ Lifting Capacity ^^^ Description ^
-^ :::   ^ 1 lb. ^ 5 lb. ^ 10 lb. ^ :::       ^
-| Raw    | 2 lb. + self | 10 lb. + self | 20 lb. + self | Raw Jinxi as found underground in seams. Presence of other elements contributing to its total weight hinders its lifting capacity. |
-| Pure   | 5 lb. + self | 25 lb. + self | 50 lb. + self | Raw Jinxi as sometimes found in natural crystaline formation, or manufactured from Raw Jinxi. |
-| Refined | 5 lb. + self | 25 lb. + self | 50 lb. + self | Jinxi refined to various densities and opacities, usually through deliberate processes. |
+^ Quality ^ Lifting Capacity ^^^^ Description ^
+^ :::   ^ Formula ^ 1 lb. ^ 5 lb. ^ 10 lb. ^ :::       ^
+| Raw    | self + 2*self | 2 lb. + self | 10 lb. + self | 20 lb. + self | Raw Jinxi as found underground in seams. Presence of other elements contributing to its total weight hinders its lifting capacity. |
+| Pure   | self + 5*self | 5 lb. + self | 25 lb. + self | 50 lb. + self | Raw Jinxi as sometimes found in natural crystaline formation, or manufactured from Raw Jinxi. |
+| Refined | self + 5*self | 5 lb. + self | 25 lb. + self | 50 lb. + self | Jinxi refined to various densities and opacities, usually through deliberate processes. |
 
 ==== Special Abilities ====
 Through intelligent or instinctive application of Jinxi telekinesis, wielders may utilise the following abilities:
