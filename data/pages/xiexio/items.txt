@@ -66,6 +66,13 @@ The weapon itself is a heavy, [[:jinxi]] laced, spear which is designed to separ
 | Multilance Whole | 2d8  | P | 30 ft. | 12 lbs. | 12 gp |
 
 === Xiexio Firearms ===
+Most Xiexio Firearms are energy weapons which draw power from an [[#Arcane Battery]].
+
+== Safety ==
+Xiexio Firearms frequently feature an internal safety mechanism which most Xienonxionin can disabled using [[:jinxi#Jinxi Telekinesis]], and an external safety latch which cannot be disabled unless the internal mechanism is also disabled, but then locks both in place. If the external mechanism is activated, the internal mechanism also reverts to its active state - this happens automatically whenever the weapon receives any charge. The weapon will not fire when either of these safety mechanisms is active.
+
+The presence of the internal [[:Jinxi]] mechanism hinders any use of such weapons by most alien races, or by minors, while the external mechanism prevents hostile Xiexio from disabling an enemy's weapon via telekinesis.
+
 ^ ^ Dmg ^ Type ^ Charge Capacity ^ Charges/Use ^ Range ^ Max ^ Weight ^ Cost ^
 | Xiexio Martial Disruptor Pistol | 2d6 nonlethal, or 4d6 lethal | Force | 200 | 20 | 20 ft. | 200 ft. | | |
 | Xiexio Advanced Disruptor Rifle | 3d6 nonelethal or 6d6 lethal | Force | 600 | 30 | 100 ft. | 1,000 ft. | | |
