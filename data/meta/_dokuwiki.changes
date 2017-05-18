@@ -1,11 +1,3 @@
-1493197949	46.16.213.65	E	lufia	dtconfect	[Environment] 		1
-1493202678	46.16.213.65	E	lufia	dtconfect	[Svailorn] 		-1
-1493640268	2.29.133.38	E	xiexio	dtconfect	[Index] 		25
-1493762511	2.29.133.38	E	xiexio:items	dtconfect	[Weapons] 		25
-1493762620	2.29.133.38	E	xiexio:items	dtconfect	[Weapons] 		0
-1493762942	2.29.133.38	E	xiexio:items	dtconfect	[Armour] 		194
-1493763328	2.29.133.38	E	jinxi	dtconfect	[Operation] 		-11
-1493817815	46.16.213.65	E	xiexio:items	dtconfect	[Weapons] 		2
 1493822722	46.16.213.65	E	xiexio:items	dtconfect	[Weapons] 		32
 1493823427	46.16.213.65	E	xiexio:items	dtconfect	[Weapons] 		146
 1493829278	46.16.213.65	E	xiexio:items	dtconfect	[Weapons] 		101
@@ -25,3 +17,5 @@
 1495072939	2.29.133.38	C	lady_steel	dtconfect	created		1168
 1495103382	46.16.213.65	C	kyton	dtconfect	created		153
 1495103394	46.16.213.65	E	kyton	dtconfect	[Notable Kytons] 		12
+1495113921	46.16.213.65	E	kyton	dtconfect			30
+1495114034	46.16.213.65	E	kyton	dtconfect	[Notable Kytons] 		7

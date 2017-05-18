@@ -3,5 +3,7 @@
 ===== Fleshbound =====
 ===== Notable Kytons =====
   * [[:Nustalem]]
+  * [[:Zichtsu]]
   * [[:Prince_of_Pain]]
+  * [[:Lady Steel]]
   * [[:kyton:Daemon_Knights]]
