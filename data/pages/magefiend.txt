@@ -9,3 +9,8 @@ It will typically seduce a caster into worshipping it or otherwise approach them
 The magefiend is inscrutable and has innumerable objectives in sight at any moment, but a few possible endgoals are probable:
   * To find and monopolise the reservoir of [[:creation:true_creation:primordial_elements#mana]] within the corpse of the [[:creation:marlien:dead_gods#Second|Second God]] [[:thechtonon]].
   * The [[:creation:true_creation:soul_destruction]] of the corpse of the [[:creation:marlien:dead_gods#Second|Second God]] [[:thechtonon]].
+
+===== Powers =====
+One of the key talents of the magefiend is its ability to identify those people whose biology meets the demands of channelling large quantities of [[:creation:true_creation:primordial_elements#mana]] and, where they have not naturally been, tether them to an appropriate source, creating a [[:Sorcerer]] or [[:Warlock]]. In other cases it may act as an intermediary for other unscrupulous entities, helping to introduce potential [[:Cleric]]s or [[:Witch]]es to them. The magefiend may also align itself with studious folk with interests in the arcane; its age and experience affords it ample secrets with which to whet the appetites of [[:Wizard]]s.
+
+The magefiend's astral eye moves where it pleases, though its scope is limited. Once its interest is piqued it tends to restrict its activities to a small region, but it is always freely able to scry upon, or communicate with such [[:Warlock]]s or [[:Sorcerer]]s as it has tethered to some known power source.
