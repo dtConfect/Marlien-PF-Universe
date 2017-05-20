@@ -1,5 +1,6 @@
 ====== Marlien ======
 Marlien is a [[creation:magic|magical]] [[creation:creation]] within the [[creation:true_creation:beyond]] which was constructed by the [[creation:marlien:Dead Gods]].
+
 ===== Names =====
 Marlien is known by many names:
   * **Marlien** - from the parable of [[religion:solenist_academia|Solen and Marlien]] in the [[:arthale|Arthalean]] religion [[religion:solenist_academia|Solenist Academia]], where it is the name of the creator, or sleeping godess who dreams creation.
@@ -7,5 +8,57 @@ Marlien is known by many names:
 ===== Topography =====
 Marlien is a poly-dimensional [[Creation:Creation]] whose structure can be divided into three, discrete [[planes:planes]]: the [[:Immaterium]], [[:Ethereal]], and [[:Materium]]. In common parlance the [[:Immaterial]] is refered to as a 'higher' [[:planes:planes|plane]], but it is more appropriate to describe the [[:Material]] as the surface, then move deeper into the [[:Ethereal]], and then deeper still into the [[:Immaterium]], whose depths extend into a vast, unknown void. Within the [[:Materium]], Marlien is further divided into sub-[[planes:planes]], each having disparate topographies with some overlap, intersection, and imitation. These sub-[[planes:planes]] are often manifestations of [[:creation:true_creation:primordial_elements#mana|will]] expressed from greater depths, a product of residual [[:creation:true_creation:primordial_elements#mana|will]] from activities long ago, or merely the design of the [[creation:Marlien:Dead_Gods]]. The primary, most balanced and diverse, of these planes is named [[planes:material]].
 
-==== Planes ====
-Within the [[:Materium]], Marlien is further divided into [[planes:planes]], each having disparate topographies with some overlap, intersection, and imitation.
+==== Sub-Planes of Marlien ====
+  * [[planes:material]]
+  * [[planes:solitude]]
+  * [[planes:celestial]]
+  * [[planes:shadow]]
+  * [[planes:feywild]]
+  * [[planes:fire]]
+  * [[planes:halls_of_the_charon]]
+  * [[planes:everstair]]
+  * [[planes:everdark]]
+  * [[planes:bloodvoid]]
+  * [[planes:eternal_desert]]
+  * [[planes:mirrorshore]]
+  * [[planes:fish]]
+  * [[planes:machine]]
+  * [[planes:nod]]
+
+===== Planar Physics =====
+Physical bodies in Marlien gravitate strongly towards the [[:Materium]] plane, and it is there where all unclaimed [[:creation:true_creation:primordial_elements#anicca]] finds itself at rest, in the shapeless plane named [[planes:Solitude]]. [[:creation:true_creation:primordial_elements#atman]] typically reside in the [[:Immaterium]],
+ even when bound to [[:creation:true_creation:primordial_elements#trinity|physical vessels]] at other depths, and are usually only drawn into the [[:Materium]] forcefully, or in trying to maintain a strong connection with a dying [[:creation:true_creation:primordial_elements#trinity|vessel]]. Similarly, physical bodies may only be drawn from, and held outside of the [[:Materium]] by the strong and sustained [[:creation:true_creation:primordial_elements#mana|will]] of an [[:creation:true_creation:primordial_elements#atman]]; such is true even for the entities who reside physically, and permanently at or beyond the [[:Immaterium]] plane, which is why these are predominantly beings of great power and intellect.
+
+[[:creation:true_creation:primordial_elements#trinity|physical vessel]]-bound [[:creation:true_creation:primordial_elements#atman]] are typically protected from the aggressions of other [[:creation:true_creation:primordial_elements#atman]], even if they reside at a different depth, but this protection wanes as they move further apart. In the [[:Immaterium]] plane reside a multitude of unpleasant entities - often unbound [[creation:true_creation:primordial_elements#hunger]]s too weak to press down into the [[:materium]] plane - which would otherwise consume the [[:creation:true_creation:primordial_elements#atman|souls]] of living men, but must instead wait until these [[:creation:true_creation:primordial_elements#atman|souls]] are set free, or are fool enough to bring their [[:creation:true_creation:primordial_elements#trinity|vessels]] nearer.
+
+==== Planar Travel ====
+Moving through the depths of Marlien is simple enough - it simply takes a strong enough will to draw a [[:creation:true_creation:primordial_elements#atman|soul]] up to the [[:Materium]] plane, or a physical body down into the [[:Immaterium]]. Though some of the [[:Materium]] sub-[[planes:planes]] overlap, intersect, or border one-another, allowing for [[#Plane Gate]]s, others are only connected by the web-ways of the [[:Ethereal]] plane, and others still by only the [[:Immaterium]] plane. [[planes:halls_of_the_charon]], for example, are only connected to other [[#Sub-Planes of Marlien|sub-planes]] via the [[:astral]] plane, save for the [[planes:everstair]], which exists within them.
+
+=== Astral Projection ===
+[[:Astral Projection]] is the practice of willing one's own perception into the perspective of the [[:creation:true_creation:primordial_elements#atman]] instead of the [[:creation:true_creation:primordial_elements#trinity|physical vessel]]. With practice, a capable entity might learn to move its [[:creation:true_creation:primordial_elements#atman]] separately from its [[:creation:true_creation:primordial_elements#trinity|physical vessel]], and see through the depths to the [[:Ethereal]], or [[:Materium]] from that perspective - even seeing into other [[#Sub-Planes of Marlien|planes]], since the [[:Immaterium]] and [[:Ethereal]] planes have no such barriers as the [[:Materium]].
+
+=== Intersection ===
+At points where two [[#Sub-Planes of Marlien|sub-planes]] intersect, there planar travel is most trivial. Often there is some obscure route or movement which must be followed in order to cross the intersection, but no other exertion or application of 
+
+=== Plane Shift ===
+Plane shifting is the simplest, but perhaps most dangerous method of planar travel. It involves simply lowering the physical [[:creation:true_creation:primordial_elements#trinity|vessel]] into either the [[:Ethereal]] or [[:Immaterium]] as required, moving it to the vicinity of the desired [[#Sub-Planes of Marlien|sub-plane]], and then releasing it back into the [[:Materium]].
+
+Because it is not always clear which parts of the [[:Ethereal]] or [[:Immaterium]] planes correspond to which parts of the [[:Materium]] planes, and there are certain routes in the [[:Ethereal]] plane which are not connected, it can be difficult to tell, while plane shifting, how to reach the desired [[#Sub-Planes of Marlien|sub-plane]]. This is especially true for undisciplined travellers foolhardy enough to attempt a plane shift, who may not even be able to see out of the depths, and may simply embed themselves in a wall, or other unpleasant circumstance.
+
+Further danger arises from the [[:creation:true_creation:primordial_elements#trinity|vessel]]'s greater proximity to the [[:immaterial]], where a great many fledgling [[creation:true_creation:primordial_elements#hunger]]s gather about any concentration of other [[:creation:true_creation:primordial_elements#atman]], and will relish the opportunity to strike at a [[:creation:true_creation:primordial_elements#trinity|vessel]] which they ordinarily could not reach.
+
+
+=== Plane Gate ===
+Currents of [[:creation:true_creation:primordial_elements#mana]] flow between the [[#Sub-Planes of Marlien|sub-planes]] which are in direct contact, frequently opening up fissures between worlds. Microscopic fissures opened by these currents are frequent, and allow small, nimble creatures with a sense for them to easily pop from world to world, while larger fissures are rarer, and equally unpredictable. It is important to understand that the endpoints of these fissures usually vary greatly in position, even in overlapping [[#Sub-Planes of Marlien|sub-planes]].
+
+The simplest application of these fissures is to predict their location and magnitude, and simply move with the current. Alternatively, a sustained, or even permanent plane gate can be created by the application of additional [[:creation:true_creation:primordial_elements#mana]] to a fissure. While it is technically possible to create such a fissure artificially, it is neither economical, or simple to accomplish.
+
+== Supplanting ==
+Supplanting is a technique derived from the creation of plane gates, and utilised by the [[:kyton]] [[:kyton:flesh_city]] [[:Nustalem]] in its efforts to move its enormous body from [[:planes:shadow]] to [[:planes:material]]. Instead of applying additional [[:creation:true_creation:primordial_elements#mana]] to simply sustain a plane gate, supplanting uses [[:creation:true_creation:primordial_elements#mana]] to move the plane gate, expand it, and wrap it around an object. This movement occurs at both sides of the fissure, and so whatever resides on each side swaps location. This allows incredibly large, or immobile objects to be moved between [[#Sub-Planes of Marlien|sub-planes]], with the risk being that it is slow, and may cause great harm if interrupted.
+
+
+===== The Circle of Life =====
+The [[creation:true_creation:charon]] consider themselves wardens of the [[:creation:true_creation:primordial_elements#atman]] in Marlien, and arbiters of life and death. They ferry the [[:creation:true_creation:primordial_elements#atman|souls]] of the dead across the [[:Immaterium]] to be held in [[planes:everstair]] until they are needed for another [[:creation:true_creation:primordial_elements#trinity|vessel]].
+
+==== Spectres ====
+When a [[:creation:true_creation:primordial_elements#atman|soul]] is particularly invested in its [[:creation:true_creation:primordial_elements#trinity|vessel]], its struggle to hold on the that body at the point of its ultimate demise might draw it up into the [[:Materium]] plane, where it exerts a great deal of [[:creation:true_creation:primordial_elements#mana|will]] to remain. The presence of an unbound An unbound [[:creation:true_creation:primordial_elements#atman]] in the [[:Materium]] plane naturally attracts motes of unclaimed [[:creation:true_creation:primordial_elements#anicca]], manifesting as a visible [[:specter]], though it may suppress this attraction through instinct or intellect. [[:Specter]]s may also arise when the [[:creation:true_creation:primordial_elements#atman]] of a dead [[:creation:true_creation:primordial_elements#trinity|vessel]] slips through the net, and no [[creation:true_creation:charon]] awaits to ferry it away.
