@@ -14,3 +14,10 @@ The magefiend is inscrutable and has innumerable objectives in sight at any mome
 One of the key talents of the magefiend is its ability to identify those people whose biology meets the demands of channelling large quantities of [[:creation:true_creation:primordial_elements#mana]] and, where they have not naturally been, tether them to an appropriate source, creating a [[:Sorcerer]] or [[:Warlock]]. In other cases it may act as an intermediary for other unscrupulous entities, helping to introduce potential [[:Cleric]]s or [[:Witch]]es to them. The magefiend may also align itself with studious folk with interests in the arcane; its age and experience affords it ample secrets with which to whet the appetites of [[:Wizard]]s.
 
 The magefiend's astral eye moves where it pleases, though its scope is limited. Once its interest is piqued it tends to restrict its activities to a small region, but it is always freely able to scry upon, or communicate with such [[:Warlock]]s or [[:Sorcerer]]s as it has tethered to some known power source.
+
+===== Stats =====
+
+=== Spell-like Abilities ===
+Mythic [[http://www.d20pfsrd.com/magic/3rd-party-spells/4-winds-fantasy-gaming-3rd-party-spells/analyze-ancestry/|Analyze Ancestry]] (DC 30, all genealogy)
+Mythic [[http://www.d20pfsrd.com/magic/all-spells/s/spell-gauge/|Spell Gauge]] (DC 30, all spells and mental ability scores)
+Mythic [[http://www.d20pfsrd.com/psionics-unleashed/psionic-powers/r/read-thoughts/|Read Thoughts]] (DC 30, allows the magefiend to probe your recent memories and gain some understanding of your character)
